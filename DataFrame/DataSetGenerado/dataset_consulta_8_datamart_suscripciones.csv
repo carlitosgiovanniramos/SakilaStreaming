@@ -1,0 +1,283 @@
+﻿Suscripcion_ID,Fecha_ID,Cliente,Proveedor,Tipo_Plan,Fecha_Inicio_ID,Fecha_Fin_ID,Activo,Ingreso
+1,20250626,Soren Legrand,AMC+ Roku Premium Channel,flatrate,20250626,20250726,False,9.99
+2,20250505,Lauren Ferguson,AMC+ Roku Premium Channel,flatrate,20250505,20250604,False,9.99
+3,20250401,Jennifer Holland,AMC+ Roku Premium Channel,flatrate,20250401,20250501,False,9.99
+4,20250410,Eva Wilson,AMC+ Roku Premium Channel,flatrate,20250410,20250510,False,9.99
+5,20260118,Ron May,AMC+ Roku Premium Channel,flatrate,20260118,20260217,False,9.99
+6,20250704,Alexandra Soto,AMC+ Roku Premium Channel,flatrate,20250704,20250803,False,9.99
+7,20250411,Ivânia Monteiro,AMC+ Roku Premium Channel,flatrate,20250411,20250511,False,9.99
+8,20250930,Lavínia Porto,AMC+ Roku Premium Channel,flatrate,20250930,20251030,False,9.99
+9,20250725,Abigail Brewer,AMC+ Roku Premium Channel,flatrate,20250725,20250824,False,9.99
+10,20250627,Flora Perrin,AMC+ Roku Premium Channel,flatrate,20250627,20250727,False,9.99
+11,20251126,Antoine Smith,AMC+ Roku Premium Channel,flatrate,20251126,20251226,False,9.99
+12,20251013,Emma Blanc,AMC+ Roku Premium Channel,flatrate,20251013,20251112,False,9.99
+13,20250906,Marilyn Chapman,AMC+ Roku Premium Channel,flatrate,20250906,20251006,False,9.99
+14,20250929,Louanne Dumont,AMC+ Roku Premium Channel,flatrate,20250929,20251029,False,9.99
+15,20250622,Loïs Renaud,AMC+ Roku Premium Channel,flatrate,20250622,20250722,False,9.99
+16,20250531,Lucy Evans,AMC+ Roku Premium Channel,flatrate,20250531,20250630,False,9.99
+17,20250418,Grace Barrett,AMC+ Roku Premium Channel,flatrate,20250418,20250518,False,9.99
+18,20250727,Alvin Hernandez,fuboTV,flatrate,20250727,20250826,False,9.99
+19,20250320,Mia Bouchard,Peacock Premium,flatrate,20250320,20250419,False,9.99
+20,20250428,Louanne Dumont,Peacock Premium,flatrate,20250428,20250528,False,9.99
+21,20250717,Antoine Smith,Peacock Premium,flatrate,20250717,20250816,False,9.99
+22,20250502,Adam Chan,Peacock Premium,flatrate,20250502,20250601,False,9.99
+23,20251216,Samuel Novak,Peacock Premium,flatrate,20251216,20260115,False,9.99
+24,20250702,Gavin George,Peacock Premium,flatrate,20250702,20250801,False,9.99
+25,20260114,Elisângela da Rosa,Peacock Premium,flatrate,20260114,20260213,False,9.99
+26,20250519,Ivânia Monteiro,Peacock Premium,flatrate,20250519,20250618,False,9.99
+27,20250621,Eva Wilson,Peacock Premium,flatrate,20250621,20250721,False,9.99
+28,20250408,Élson Viana,Peacock Premium,flatrate,20250408,20250508,False,9.99
+29,20251023,Rigoberto de Souza,Peacock Premium,flatrate,20251023,20251122,False,9.99
+30,20250909,Kelly Spencer,Peacock Premium,flatrate,20250909,20251009,False,9.99
+31,20250611,Nicole Hopkins,Peacock Premium,flatrate,20250611,20250711,False,9.99
+32,20260223,Aureliza da Conceição,Peacock Premium,flatrate,20260223,20260325,True,9.99
+33,20251104,Sandro Lopez,Peacock Premium,flatrate,20251104,20251204,False,9.99
+34,20250805,Yann Lucas,TCM,flatrate,20250805,20250904,False,9.99
+35,20260302,Elisângela da Rosa,TCM,flatrate,20260302,20260401,True,9.99
+36,20260315,Adam Chan,TCM,flatrate,20260315,20260414,True,9.99
+37,20250924,Antoine Smith,TCM,flatrate,20250924,20251024,False,9.99
+38,20250319,Arnaldo Moreira,TCM,flatrate,20250319,20250418,False,9.99
+39,20251213,Lucien Moulin,TCM,flatrate,20251213,20260112,False,9.99
+40,20260228,Zoe Wright,TCM,flatrate,20260228,20260330,True,9.99
+41,20250531,Grace Barrett,TCM,flatrate,20250531,20250630,False,9.99
+42,20250517,Hilário Teixeira,TCM,flatrate,20250517,20250616,False,9.99
+43,20251120,Lucas Dixon,HBO Max,flatrate,20251120,20251220,False,9.99
+44,20250613,Lilou Girard,HBO Max,flatrate,20250613,20250713,False,9.99
+45,20251103,Madison Miller,Netflix,flatrate,20251103,20251203,False,9.99
+46,20250623,Lilou Girard,YouTube TV,flatrate,20250623,20250723,False,9.99
+47,20250316,Mia Bouchard,YouTube TV,flatrate,20250316,20250415,False,9.99
+48,20260124,Sergio Barnes,YouTube TV,flatrate,20260124,20260223,False,9.99
+49,20250420,Lucien Moulin,YouTube TV,flatrate,20250420,20250520,False,9.99
+50,20250812,Arnaud French,YouTube TV,flatrate,20250812,20250911,False,9.99
+51,20250423,Gavin George,YouTube TV,flatrate,20250423,20250523,False,9.99
+52,20251027,Teresa Payne,YouTube TV,flatrate,20251027,20251126,False,9.99
+53,20250718,Stella Ward,YouTube TV,flatrate,20250718,20250817,False,9.99
+54,20260228,Diane Da Silva,HBO Max,flatrate,20260228,20260330,True,9.99
+55,20260228,Abigail Brewer,Paramount Plus Premium,flatrate,20260228,20260330,True,9.99
+56,20250901,Alexander Wong,Paramount Plus Premium,flatrate,20250901,20251001,False,9.99
+57,20251209,Nicole Hopkins,Paramount Plus Premium,flatrate,20251209,20260108,False,9.99
+58,20251228,Kelly Spencer,Paramount Plus Premium,flatrate,20251228,20260127,False,9.99
+59,20260131,Eric Ruiz,Paramount Plus Premium,flatrate,20260131,20260302,False,9.99
+60,20260210,Eric Peck,Paramount Plus Premium,flatrate,20260210,20260312,False,9.99
+61,20250713,Grace Barrett,Paramount Plus Premium,flatrate,20250713,20250812,False,9.99
+62,20251124,Charlene Elliott,Paramount Plus Premium,flatrate,20251124,20251224,False,9.99
+63,20250511,Emilie Brown,Paramount Plus Premium,flatrate,20250511,20250610,False,9.99
+64,20250821,Irídea Duarte,Paramount Plus Premium,flatrate,20250821,20250920,False,9.99
+65,20260202,Ron May,Paramount Plus Premium,flatrate,20260202,20260304,False,9.99
+66,20250909,Rigoberto de Souza,fuboTV,flatrate,20250909,20251009,False,9.99
+67,20250506,Elouan Bonnet,fuboTV,flatrate,20250506,20250605,False,9.99
+68,20250602,Gavin George,Amazon Prime Video,flatrate,20250602,20250702,False,9.99
+69,20250505,Léo Sanchez,Amazon Prime Video,flatrate,20250505,20250604,False,9.99
+70,20260124,Orlindo Barbosa,AMC+ Amazon Channel,flatrate,20260124,20260223,False,9.99
+71,20250626,Soren Legrand,AMC+ Amazon Channel,flatrate,20250626,20250726,False,9.99
+72,20250920,Jennifer Holland,AMC+ Amazon Channel,flatrate,20250920,20251020,False,9.99
+73,20250707,Alexander Wong,AMC+ Amazon Channel,flatrate,20250707,20250806,False,9.99
+74,20250709,Alexandre Scott,AMC+ Amazon Channel,flatrate,20250709,20250808,False,9.99
+75,20251020,Diane Da Silva,AMC+ Amazon Channel,flatrate,20251020,20251119,False,9.99
+76,20260226,Alexandra Soto,AMC+ Amazon Channel,flatrate,20260226,20260328,True,9.99
+77,20250828,Marius Roussel,AMC+ Amazon Channel,flatrate,20250828,20250927,False,9.99
+78,20260220,Sophia Margaret,AMC+ Amazon Channel,flatrate,20260220,20260322,True,9.99
+79,20260308,Marco Pinto,AMC+ Amazon Channel,flatrate,20260308,20260407,True,9.99
+80,20260302,Arnaldo Moreira,AMC+ Amazon Channel,flatrate,20260302,20260401,True,9.99
+81,20250617,Lucy Evans,AMC+ Amazon Channel,flatrate,20250617,20250717,False,9.99
+82,20260109,Lucien Moulin,AMC+ Amazon Channel,flatrate,20260109,20260208,False,9.99
+83,20250921,Loane Thomas,AMC+ Amazon Channel,flatrate,20250921,20251021,False,9.99
+84,20250822,Hilário Teixeira,AMC+ Amazon Channel,flatrate,20250822,20250921,False,9.99
+85,20250326,Matthew Wallace,AMC+ Amazon Channel,flatrate,20250326,20250425,False,9.99
+86,20250916,Tracy Reed,AMC+ Amazon Channel,flatrate,20250916,20251016,False,9.99
+87,20250726,Aureliza da Conceição,Netflix,flatrate,20250726,20250825,False,9.99
+88,20260218,Arnaldo Moreira,fuboTV,flatrate,20260218,20260320,False,9.99
+89,20250708,Flenn Fox,fuboTV,flatrate,20250708,20250807,False,9.99
+90,20251017,Eric Ruiz,Criterion Channel,flatrate,20251017,20251116,False,9.99
+91,20251029,Emilie Brown,Criterion Channel,flatrate,20251029,20251128,False,9.99
+92,20250419,Zoe Wright,Criterion Channel,flatrate,20250419,20250519,False,9.99
+93,20250712,Yann Lucas,Criterion Channel,flatrate,20250712,20250811,False,9.99
+94,20250623,Blake Li,Criterion Channel,flatrate,20250623,20250723,False,9.99
+95,20251117,Lilou Girard,Criterion Channel,flatrate,20251117,20251217,False,9.99
+96,20251207,Eva Wilson,Hulu,flatrate,20251207,20260106,False,9.99
+97,20260109,Judith Gonzales,Hulu,flatrate,20260109,20260208,False,9.99
+98,20250503,Sandro Lopez,Hulu,flatrate,20250503,20250602,False,9.99
+99,20250620,Clarence Campbell,Hulu,flatrate,20250620,20250720,False,9.99
+100,20260218,Sophia Margaret,Hulu,flatrate,20260218,20260320,False,9.99
+101,20260313,Eric Peck,Hulu,flatrate,20260313,20260412,True,9.99
+102,20250730,Luise Nascimento,HBO Max,flatrate,20250730,20250829,False,9.99
+103,20251225,Eva Wilson,HBO Max,flatrate,20251225,20260124,False,9.99
+104,20260204,Alvin Hernandez,Amazon Video,rent,20260204,20260211,False,9.99
+105,20250821,Emeline Gaillard,Paramount Plus Essential,flatrate,20250821,20250920,False,9.99
+106,20250709,Elouan Bonnet,Paramount Plus Essential,flatrate,20250709,20250808,False,9.99
+107,20250827,Sergio Barnes,Paramount Plus Essential,flatrate,20250827,20250926,False,9.99
+108,20250712,Teresa Payne,Paramount Plus Essential,flatrate,20250712,20250811,False,9.99
+109,20251112,Eric Peck,Paramount Plus Essential,flatrate,20251112,20251212,False,9.99
+110,20260225,Téo Dubois,Paramount Plus Essential,flatrate,20260225,20260327,True,9.99
+111,20251214,Diane Da Silva,Paramount Plus Essential,flatrate,20251214,20260113,False,9.99
+112,20250726,Soren Legrand,Paramount Plus Essential,flatrate,20250726,20250825,False,9.99
+113,20250731,Matthew Lam,Paramount Plus Essential,flatrate,20250731,20250830,False,9.99
+114,20250815,Rigoberto de Souza,Paramount Plus Essential,flatrate,20250815,20250914,False,9.99
+115,20260311,Léo Sanchez,Paramount Plus Essential,flatrate,20260311,20260410,True,9.99
+116,20250915,Julia Deschamps,Paramount Plus Essential,flatrate,20250915,20251015,False,9.99
+117,20251105,Stella Ward,Paramount Plus Essential,flatrate,20251105,20251205,False,9.99
+118,20250614,Mia Bouchard,fuboTV,flatrate,20250614,20250714,False,9.99
+119,20251016,Loane Thomas,Amazon Video,rent,20251016,20251023,False,9.99
+120,20250906,Howard Palmer,HBO Max,flatrate,20250906,20251006,False,9.99
+121,20251021,Yann Lucas,HBO Max,flatrate,20251021,20251120,False,9.99
+122,20251108,Julie Lefevre,HBO Max,flatrate,20251108,20251208,False,9.99
+123,20250502,Julie Lefevre,Netflix,flatrate,20250502,20250601,False,9.99
+124,20251112,Diane Da Silva,Passionflix Amazon Channel,flatrate,20251112,20251212,False,9.99
+125,20260123,Jennie Neal,Passionflix Amazon Channel,flatrate,20260123,20260222,False,9.99
+126,20260206,Téo Dubois,Passionflix Amazon Channel,flatrate,20260206,20260308,False,9.99
+127,20260221,Rigoberto de Souza,Passionflix Amazon Channel,flatrate,20260221,20260323,True,9.99
+128,20260116,Derci de Souza,Amazon Video,rent,20260116,20260123,False,9.99
+129,20251203,Howard Palmer,Crunchyroll,flatrate,20251203,20260102,False,9.99
+130,20250428,Madison Miller,Crunchyroll,flatrate,20250428,20250528,False,9.99
+131,20250818,Matthew Wallace,Crunchyroll,flatrate,20250818,20250917,False,9.99
+132,20251227,Hilário Teixeira,Amazon Prime Video,flatrate,20251227,20260126,False,9.99
+133,20250806,Candice Fisher,Amazon Prime Video,flatrate,20250806,20250905,False,9.99
+134,20250406,Matthew Wallace,Netflix,flatrate,20250406,20250506,False,9.99
+135,20250726,Adam Chan,HBO Max,flatrate,20250726,20250825,False,9.99
+136,20250930,Rigoberto de Souza,Amazon Video,rent,20250930,20251007,False,9.99
+137,20250702,Élson Viana,Amazon Video,rent,20250702,20250709,False,9.99
+138,20251213,Connor Frazier,Passionflix Amazon Channel,flatrate,20251213,20260112,False,9.99
+139,20260312,Lee Rodriguez,Passionflix Amazon Channel,flatrate,20260312,20260411,True,9.99
+140,20260122,Flenn Fox,Passionflix Amazon Channel,flatrate,20260122,20260221,False,9.99
+141,20250317,Paige Mitchelle,Amazon Video,rent,20250317,20250324,False,9.99
+142,20251012,Ivânia Monteiro,Amazon Prime Video,flatrate,20251012,20251111,False,9.99
+143,20251104,Matthew Wallace,Amazon Prime Video,flatrate,20251104,20251204,False,9.99
+144,20260116,Sadi Nunes,Amazon Prime Video,flatrate,20260116,20260215,False,9.99
+145,20250829,Lucile Rodriguez,Amazon Video,rent,20250829,20250905,False,9.99
+146,20250613,Paige Mitchelle,Passionflix Amazon Channel,flatrate,20250613,20250713,False,9.99
+147,20250708,Lauren Ferguson,Passionflix Amazon Channel,flatrate,20250708,20250807,False,9.99
+148,20250319,Felix Campbell,Passionflix Amazon Channel,flatrate,20250319,20250418,False,9.99
+149,20250507,Emma Blanc,Passionflix Amazon Channel,flatrate,20250507,20250606,False,9.99
+150,20250525,Leroy Fleming,Passionflix Amazon Channel,flatrate,20250525,20250624,False,9.99
+151,20250523,Judd Gardner,Passionflix Amazon Channel,flatrate,20250523,20250622,False,9.99
+152,20260113,Sergio Barnes,HBO Max,flatrate,20260113,20260212,False,9.99
+153,20250617,Zoe Wright,Amazon Prime Video,flatrate,20250617,20250717,False,9.99
+154,20250422,Derci de Souza,Amazon Prime Video,flatrate,20250422,20250522,False,9.99
+155,20250930,Yann Lucas,Amazon Prime Video,flatrate,20250930,20251030,False,9.99
+156,20250712,Aureliza da Conceição,Amazon Prime Video,flatrate,20250712,20250811,False,9.99
+157,20251211,Matthew Lam,Amazon Prime Video,flatrate,20251211,20260110,False,9.99
+158,20250606,Lee Rodriguez,Amazon Video,rent,20250606,20250613,False,9.99
+159,20251009,Orlindo Barbosa,YouTube TV,flatrate,20251009,20251108,False,9.99
+160,20250717,Jennifer Holland,YouTube TV,flatrate,20250717,20250816,False,9.99
+161,20250417,Kelly Spencer,YouTube TV,flatrate,20250417,20250517,False,9.99
+162,20251207,Seth Snyder,YouTube TV,flatrate,20251207,20260106,False,9.99
+163,20250821,Flora Perrin,YouTube TV,flatrate,20250821,20250920,False,9.99
+164,20251003,Hilário Teixeira,YouTube TV,flatrate,20251003,20251102,False,9.99
+165,20250921,Clarence Campbell,YouTube TV,flatrate,20250921,20251021,False,9.99
+166,20251122,Elouan Bonnet,Disney Plus,flatrate,20251122,20251222,False,9.99
+167,20250622,Hilário Teixeira,Disney Plus,flatrate,20250622,20250722,False,9.99
+168,20250707,Angelina Guillaume,Disney Plus,flatrate,20250707,20250806,False,9.99
+169,20251027,Sergio Barnes,Amazon Video,rent,20251027,20251103,False,9.99
+170,20250906,Clarence Campbell,Google Play Movies,rent,20250906,20250913,False,9.99
+171,20260127,Elouan Bonnet,Google Play Movies,rent,20260127,20260203,False,9.99
+172,20250619,Marilyn Patterson,Google Play Movies,rent,20250619,20250626,False,9.99
+173,20250323,Zoe Wright,Google Play Movies,rent,20250323,20250330,False,9.99
+174,20250826,Flora Perrin,Google Play Movies,rent,20250826,20250902,False,9.99
+175,20260315,Antoine Smith,Google Play Movies,rent,20260315,20260322,True,9.99
+176,20260222,Enrique Davidson,Google Play Movies,rent,20260222,20260301,False,9.99
+177,20260304,Grace Marshall,Google Play Movies,rent,20260304,20260311,False,9.99
+178,20251216,Marius Roussel,Google Play Movies,rent,20251216,20251223,False,9.99
+179,20260201,Avery Ross,Google Play Movies,rent,20260201,20260208,False,9.99
+180,20250317,Lucile Rodriguez,Google Play Movies,rent,20250317,20250324,False,9.99
+181,20250825,Soren Legrand,Google Play Movies,rent,20250825,20250901,False,9.99
+182,20250329,Kelly Spencer,Google Play Movies,rent,20250329,20250405,False,9.99
+183,20250407,Ron May,Google Play Movies,rent,20250407,20250414,False,9.99
+184,20260217,Jennie Neal,Google Play Movies,rent,20260217,20260224,False,9.99
+185,20250521,Lavínia Porto,Google Play Movies,rent,20250521,20250528,False,9.99
+186,20250406,Abigail Brewer,Google Play Movies,rent,20250406,20250413,False,9.99
+187,20250512,Léo Sanchez,Amazon Video,rent,20250512,20250519,False,9.99
+188,20251109,Jennie Neal,Netflix,flatrate,20251109,20251209,False,9.99
+189,20251211,Irídea Duarte,Netflix,flatrate,20251211,20260110,False,9.99
+190,20250603,Arnaldo Moreira,Netflix,flatrate,20250603,20250703,False,9.99
+191,20250316,Tracy Reed,Netflix,flatrate,20250316,20250415,False,9.99
+192,20250923,Leroy Fleming,HBO Max,flatrate,20250923,20251023,False,9.99
+193,20251209,Gavin George,Crunchyroll,flatrate,20251209,20260108,False,9.99
+194,20250922,Lavínia Porto,Crunchyroll,flatrate,20250922,20251022,False,9.99
+195,20251031,Blake Li,Hulu,flatrate,20251031,20251130,False,9.99
+196,20260106,Arnaud French,Hulu,flatrate,20260106,20260205,False,9.99
+197,20250402,Louise Harrison,Hulu,flatrate,20250402,20250502,False,9.99
+198,20251202,Marilyn Chapman,Hulu,flatrate,20251202,20260101,False,9.99
+199,20250915,Mia Bouchard,HBO Max,flatrate,20250915,20251015,False,9.99
+200,20251205,Alexandra Soto,HBO Max,flatrate,20251205,20260104,False,9.99
+201,20250523,Lauren Ferguson,HBO Max,flatrate,20250523,20250622,False,9.99
+202,20250927,Louise Harrison,Amazon Video,rent,20250927,20251004,False,9.99
+203,20250518,Marilyn Patterson,Amazon Video,rent,20250518,20250525,False,9.99
+204,20250327,Marius Roussel,Netflix,flatrate,20250327,20250426,False,9.99
+205,20251212,Eva Wilson,Netflix,flatrate,20251212,20260111,False,9.99
+206,20251229,Diane Da Silva,Netflix,flatrate,20251229,20260128,False,9.99
+207,20251002,Orlindo Barbosa,Netflix,flatrate,20251002,20251101,False,9.99
+208,20250422,Samuel Novak,Netflix,flatrate,20250422,20250522,False,9.99
+209,20260123,Antoine Smith,Netflix,flatrate,20260123,20260222,False,9.99
+210,20251002,Loane Thomas,Netflix,flatrate,20251002,20251101,False,9.99
+211,20250427,Sandro Lopez,Amazon Video,rent,20250427,20250504,False,9.99
+212,20260204,Lucile Rodriguez,fuboTV,flatrate,20260204,20260306,False,9.99
+213,20251127,Blake Li,fuboTV,flatrate,20251127,20251227,False,9.99
+214,20260106,Dwayne Porter,fuboTV,flatrate,20260106,20260205,False,9.99
+215,20251012,Luise Nascimento,fuboTV,flatrate,20251012,20251111,False,9.99
+216,20250325,Owen Noel,Amazon Video,rent,20250325,20250401,False,9.99
+217,20250609,Kelly Spencer,Criterion Channel,flatrate,20250609,20250709,False,9.99
+218,20250503,Lucas Dixon,Criterion Channel,flatrate,20250503,20250602,False,9.99
+219,20250718,Adam Chan,Criterion Channel,flatrate,20250718,20250817,False,9.99
+220,20251201,Leroy Fleming,Criterion Channel,flatrate,20251201,20251231,False,9.99
+221,20260205,Lee Rodriguez,fuboTV,flatrate,20260205,20260307,False,9.99
+222,20260203,Ivânia Monteiro,fuboTV,flatrate,20260203,20260305,False,9.99
+223,20260124,Alexander Wong,Amazon Prime Video,flatrate,20260124,20260223,False,9.99
+224,20260116,Elisângela da Rosa,Amazon Prime Video,flatrate,20260116,20260215,False,9.99
+225,20250822,Melanie Harris,Amazon Prime Video,flatrate,20250822,20250921,False,9.99
+226,20250603,Marco Pinto,Amazon Prime Video,flatrate,20250603,20250703,False,9.99
+227,20251109,Tracy Reed,Paramount Plus Premium,flatrate,20251109,20251209,False,9.99
+228,20250620,Bessie Lawrence,Paramount Plus Premium,flatrate,20250620,20250720,False,9.99
+229,20251201,Elisângela da Rosa,Paramount Plus Premium,flatrate,20251201,20251231,False,9.99
+230,20250410,Lee Rodriguez,Paramount Plus Premium,flatrate,20250410,20250510,False,9.99
+231,20250818,Lauren Ferguson,Criterion Channel,flatrate,20250818,20250917,False,9.99
+232,20250827,Stella Ward,Criterion Channel,flatrate,20250827,20250926,False,9.99
+233,20250817,Cassandra Mathieu,Amazon Video,rent,20250817,20250824,False,9.99
+234,20251019,Abigail Brewer,Crunchyroll,flatrate,20251019,20251118,False,9.99
+235,20260119,Lee Rodriguez,Crunchyroll,flatrate,20260119,20260218,False,9.99
+236,20260102,Sandro Lopez,Crunchyroll,flatrate,20260102,20260201,False,9.99
+237,20250608,Paige Mitchelle,TCM,flatrate,20250608,20250708,False,9.99
+238,20251023,Soren Legrand,TCM,flatrate,20251023,20251122,False,9.99
+239,20250610,Jennifer Holland,TCM,flatrate,20250610,20250710,False,9.99
+240,20251020,Shelly Austin,TCM,flatrate,20251020,20251119,False,9.99
+241,20260121,Élson Viana,TCM,flatrate,20260121,20260220,False,9.99
+242,20260108,Teresa Payne,TCM,flatrate,20260108,20260207,False,9.99
+243,20251125,Marco Pinto,Amazon Video,rent,20251125,20251202,False,9.99
+244,20250804,Flora Perrin,Amazon Video,rent,20250804,20250811,False,9.99
+245,20250418,Flora Perrin,Crunchyroll Amazon Channel,flatrate,20250418,20250518,False,9.99
+246,20260212,Adam Chan,Crunchyroll Amazon Channel,flatrate,20260212,20260314,False,9.99
+247,20251002,Flenn Fox,Crunchyroll Amazon Channel,flatrate,20251002,20251101,False,9.99
+248,20250430,Matthew Wallace,Crunchyroll Amazon Channel,flatrate,20250430,20250530,False,9.99
+249,20250414,Loane Thomas,Crunchyroll Amazon Channel,flatrate,20250414,20250514,False,9.99
+250,20250713,Alvin Hernandez,Crunchyroll Amazon Channel,flatrate,20250713,20250812,False,9.99
+251,20251030,Lilou Girard,Crunchyroll Amazon Channel,flatrate,20251030,20251129,False,9.99
+252,20250521,Jennie Neal,Crunchyroll Amazon Channel,flatrate,20250521,20250620,False,9.99
+253,20250812,Derci de Souza,Crunchyroll Amazon Channel,flatrate,20250812,20250911,False,9.99
+254,20250914,Elisângela da Rosa,Crunchyroll Amazon Channel,flatrate,20250914,20251014,False,9.99
+255,20260113,Julie Lefevre,Crunchyroll Amazon Channel,flatrate,20260113,20260212,False,9.99
+256,20250620,Paige Mitchelle,Crunchyroll Amazon Channel,flatrate,20250620,20250720,False,9.99
+257,20250630,Lauren Ferguson,Crunchyroll,flatrate,20250630,20250730,False,9.99
+258,20251105,Cassandra Mathieu,Crunchyroll,flatrate,20251105,20251205,False,9.99
+259,20250928,Clarence Campbell,Crunchyroll,flatrate,20250928,20251028,False,9.99
+260,20250619,Louise Harrison,fuboTV,flatrate,20250619,20250719,False,9.99
+261,20250425,Lucien Moulin,Amazon Prime Video,flatrate,20250425,20250525,False,9.99
+262,20250419,Leroy Fleming,Amazon Prime Video,flatrate,20250419,20250519,False,9.99
+263,20250716,Célian Lefevre,Amazon Prime Video,flatrate,20250716,20250815,False,9.99
+264,20250622,Nájela da Rocha,Amazon Prime Video,flatrate,20250622,20250722,False,9.99
+265,20251117,Dwayne Bryant,Amazon Prime Video,flatrate,20251117,20251217,False,9.99
+266,20251017,Michelle Anderson,Criterion Channel,flatrate,20251017,20251116,False,9.99
+267,20250701,Lucien Moulin,Criterion Channel,flatrate,20250701,20250731,False,9.99
+268,20260309,Madison Miller,Disney Plus,flatrate,20260309,20260408,True,9.99
+269,20250811,Léo Sanchez,Disney Plus,flatrate,20250811,20250910,False,9.99
+270,20260308,Cassandra Mathieu,Netflix,flatrate,20260308,20260407,True,9.99
+271,20250819,Célian Lefevre,Netflix,flatrate,20250819,20250918,False,9.99
+272,20260204,Valdomiro da Mota,Netflix,flatrate,20260204,20260306,False,9.99
+273,20250508,Emilie Brown,Netflix,flatrate,20250508,20250607,False,9.99
+274,20251224,Lucile Rodriguez,Disney Plus,flatrate,20251224,20260123,False,9.99
+275,20250712,Blake Li,Disney Plus,flatrate,20250712,20250811,False,9.99
+276,20260114,Seth Snyder,Disney Plus,flatrate,20260114,20260213,False,9.99
+277,20260220,Eric Ruiz,Amazon Video,rent,20260220,20260227,False,9.99
+278,20251219,Alvin Hernandez,Disney Plus,flatrate,20251219,20260118,False,9.99
+279,20250811,Alexander Wong,Disney Plus,flatrate,20250811,20250910,False,9.99
+280,20250324,Julia Deschamps,Netflix,flatrate,20250324,20250423,False,9.99
+281,20251031,Mia Bouchard,Amazon Video,rent,20251031,20251107,False,9.99
+282,20250512,Clarence Campbell,HBO Max,flatrate,20250512,20250611,False,9.99

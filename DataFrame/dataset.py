@@ -34,7 +34,7 @@ def dataset_consulta_1():
     df = df.sort_values(by="Cliente_ID")
 
     df.to_csv(
-        "DataSetGenerado/dataset_clientes_activos_sin_streaming.csv",
+        "DataSetGenerado/dataset_consulta_1_clientes_activos_sin_streaming.csv",
         index=False,
         encoding="utf-8-sig"
     )
@@ -71,7 +71,7 @@ def dataset_consulta_2():
     df = df.sort_values(by="Indice_Rentabilidad", ascending=False)
 
     df.to_csv(
-        "DataSetGenerado/dataset_rentabilidad_contenido.csv",
+        "DataSetGenerado/dataset_consulta_2_rentabilidad_contenido.csv",
         index=False,
         encoding="utf-8-sig"
     )
@@ -109,7 +109,7 @@ def dataset_consulta_3():
     )
 
     df.to_csv(
-        "DataSetGenerado/dataset_categorias_visualizaciones_por_pais.csv",
+        "DataSetGenerado/dataset_consulta_3_categorias_visualizaciones_por_pais.csv",
         index=False,
         encoding="utf-8-sig"
     )
@@ -143,7 +143,7 @@ def dataset_consulta_4():
     df = df.sort_values(by="Total_Eventos_Streaming", ascending=False)
 
     df.to_csv(
-        "DataSetGenerado/dataset_eventos_por_cliente_servidor.csv",
+        "DataSetGenerado/dataset_consulta_4_eventos_por_cliente_servidor.csv",
         index=False,
         encoding="utf-8-sig"
     )
@@ -180,7 +180,7 @@ def dataset_consulta_5():
     df = df.sort_values(by="Ingreso_Total_Suscriptores", ascending=False)
 
     df.to_csv(
-        "DataSetGenerado/dataset_ingresos_por_ciudad.csv",
+        "DataSetGenerado/dataset_consulta_5_ingresos_por_ciudad.csv",
         index=False,
         encoding="utf-8-sig"
     )
@@ -188,39 +188,70 @@ def dataset_consulta_5():
     return df
 
 # ---------------------------------------------------------------------------------
-# DATASET CONSULTA 6
+# Dataset Consulta 6 - DATAMART STREAMING
 # ---------------------------------------------------------------------------------
-
 def dataset_consulta_6():
-    df = dataset_consulta_6()
-
-    df = df.rename(columns={
-        "Actor": "Actor",
-        "Pais": "Pais",
-        "Categoria": "Categoria_Contenido",
-        "Total_Reproducciones": "Total_Reproducciones",
-        "Total_Eventos": "Total_Eventos_Streaming",
-        "Total_Minutos": "Total_Minutos_Vistos"
-    })
-
-    df = df[[
-        "Actor",
-        "Pais",
-        "Categoria_Contenido",
-        "Total_Reproducciones",
-        "Total_Eventos_Streaming",
-        "Total_Minutos_Vistos"
-    ]]
+    df = consulta_6()
 
     df = df.dropna()
     df = df.drop_duplicates()
-    df = df.sort_values(
-        by=["Pais", "Total_Reproducciones"],
-        ascending=[True, False]
-    )
 
     df.to_csv(
-        "DataSetGenerado/dataset_categorias_actor_por_pais.csv",
+        "DataSetGenerado/dataset_consulta_6_datamart_streaming.csv",
+        index=False,
+        encoding="utf-8-sig"
+    )
+
+    return df
+
+
+# ---------------------------------------------------------------------------------
+# Dataset Consulta 7 - DATAMART PAGOS
+# ---------------------------------------------------------------------------------
+def dataset_consulta_7():
+    df = consulta_7()
+
+    df = df.dropna()
+    df = df.drop_duplicates()
+
+    df.to_csv(
+        "DataSetGenerado/dataset_consulta_7_datamart_pagos.csv",
+        index=False,
+        encoding="utf-8-sig"
+    )
+
+    return df
+
+
+# ---------------------------------------------------------------------------------
+# Dataset Consulta 8 - DATAMART SUSCRIPCIONES
+# ---------------------------------------------------------------------------------
+def dataset_consulta_8():
+    df = consulta_8()
+
+    df = df.dropna()
+    df = df.drop_duplicates()
+
+    df.to_csv(
+        "DataSetGenerado/dataset_consulta_8_datamart_suscripciones.csv",
+        index=False,
+        encoding="utf-8-sig"
+    )
+
+    return df
+
+
+# ---------------------------------------------------------------------------------
+# Dataset Consulta 9 - DATAMART CATÁLOGO DISPONIBLE
+# ---------------------------------------------------------------------------------
+def dataset_consulta_9():
+    df = consulta_9()
+
+    df = df.dropna()
+    df = df.drop_duplicates()
+
+    df.to_csv(
+        "DataSetGenerado/dataset_consulta_9_datamart_catalogo_disponible.csv",
         index=False,
         encoding="utf-8-sig"
     )

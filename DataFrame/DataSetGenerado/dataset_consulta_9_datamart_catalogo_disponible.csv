@@ -1,0 +1,170 @@
+﻿Catalogo_ID,Fecha_ID,Contenido,Anio_Lanzamiento,Proveedor,Tipo_Proveedor,Licencia_Inicio_ID,Licencia_Fin_ID,Disponible,Ranking_Catalogo
+1,20260315,Forrest Gump,1994,Amazon Prime Video,flatrate,20260315,20270315,True,8.46
+2,20260315,Forrest Gump,1994,Amazon Video,rent,20260315,20270315,True,8.46
+3,20260315,Apocalypse Now,1979,TCM,flatrate,20260315,20270315,True,8.26
+4,20260315,Apocalypse Now,1979,Amazon Video,rent,20260315,20270315,True,8.26
+5,20260315,American History X,1998,Amazon Video,rent,20260315,20270315,True,8.32
+6,20260315,Gladiator,2000,fuboTV,flatrate,20260315,20270315,True,8.22
+7,20260315,Gladiator,2000,Amazon Video,rent,20260315,20270315,True,8.22
+8,20260315,Léon: The Professional,1994,fuboTV,flatrate,20260315,20270315,True,8.29
+9,20260315,Léon: The Professional,1994,Amazon Video,rent,20260315,20270315,True,8.29
+10,20260315,Back to the Future,1985,Amazon Video,rent,20260315,20270315,True,8.32
+11,20260315,The Lord of the Rings: The Fellowship of the Ring,2001,HBO Max,flatrate,20260315,20270315,True,8.42
+12,20260315,The Lord of the Rings: The Fellowship of the Ring,2001,Amazon Video,rent,20260315,20270315,True,8.42
+13,20260315,The Lord of the Rings: The Two Towers,2002,HBO Max,flatrate,20260315,20270315,True,8.4
+14,20260315,The Lord of the Rings: The Two Towers,2002,Amazon Video,rent,20260315,20270315,True,8.4
+15,20260315,The Lord of the Rings: The Return of the King,2003,HBO Max,flatrate,20260315,20270315,True,8.49
+16,20260315,The Lord of the Rings: The Return of the King,2003,Amazon Video,rent,20260315,20270315,True,8.49
+17,20260315,Princess Mononoke,1997,HBO Max,flatrate,20260315,20270315,True,8.32
+18,20260315,Princess Mononoke,1997,Amazon Video,rent,20260315,20270315,True,8.32
+19,20260315,Spirited Away,2001,HBO Max,flatrate,20260315,20270315,True,8.53
+20,20260315,Spirited Away,2001,Amazon Video,rent,20260315,20270315,True,8.53
+21,20260315,The Dark Knight,2008,HBO Max,flatrate,20260315,20270315,True,8.52
+22,20260315,The Dark Knight,2008,Amazon Video,rent,20260315,20270315,True,8.52
+23,20260315,Dead Poets Society,1989,Hulu,flatrate,20260315,20270315,True,8.3
+24,20260315,Dead Poets Society,1989,Amazon Video,rent,20260315,20270315,True,8.3
+25,20260315,The Godfather,1972,fuboTV,flatrate,20260315,20270315,True,8.68
+26,20260315,The Godfather,1972,Amazon Video,rent,20260315,20270315,True,8.68
+27,20260315,The Godfather Part II,1974,fuboTV,flatrate,20260315,20270315,True,8.57
+28,20260315,The Godfather Part II,1974,Amazon Video,rent,20260315,20270315,True,8.57
+29,20260315,The Silence of the Lambs,1991,Amazon Prime Video,flatrate,20260315,20270315,True,8.34
+30,20260315,The Silence of the Lambs,1991,Amazon Video,rent,20260315,20270315,True,8.34
+31,20260315,The Shawshank Redemption,1994,AMC+ Roku Premium Channel,flatrate,20260315,20270315,True,8.71
+32,20260315,The Shawshank Redemption,1994,Amazon Video,rent,20260315,20270315,True,8.71
+33,20260315,Once Upon a Time in America,1984,Amazon Video,rent,20260315,20270315,True,8.38
+34,20260315,Once Upon a Time in the West,1968,Amazon Video,rent,20260315,20270315,True,8.28
+35,20260315,Seven Samurai,1954,HBO Max,flatrate,20260315,20270315,True,8.45
+36,20260315,Seven Samurai,1954,Amazon Video,rent,20260315,20270315,True,8.45
+37,20260315,12 Angry Men,1957,TCM,flatrate,20260315,20270315,True,8.55
+38,20260315,12 Angry Men,1957,Amazon Video,rent,20260315,20270315,True,8.55
+39,20260315,The Pianist,2002,Amazon Prime Video,flatrate,20260315,20270315,True,8.37
+40,20260315,The Pianist,2002,Amazon Video,rent,20260315,20270315,True,8.37
+41,20260315,Schindler's List,1993,Peacock Premium,flatrate,20260315,20270315,True,8.56
+42,20260315,Schindler's List,1993,Amazon Video,rent,20260315,20270315,True,8.56
+43,20260315,"The Good, the Bad and the Ugly",1966,fuboTV,flatrate,20260315,20270315,True,8.46
+44,20260315,"The Good, the Bad and the Ugly",1966,Amazon Video,rent,20260315,20270315,True,8.46
+45,20260315,The Green Mile,1999,YouTube TV,flatrate,20260315,20270315,True,8.5
+46,20260315,The Green Mile,1999,Amazon Video,rent,20260315,20270315,True,8.5
+47,20260315,One Flew Over the Cuckoo's Nest,1975,Amazon Video,rent,20260315,20270315,True,8.41
+48,20260315,Psycho,1960,Amazon Video,rent,20260315,20270315,True,8.41
+49,20260315,Fight Club,1999,Hulu,flatrate,20260315,20270315,True,8.43
+50,20260315,Fight Club,1999,Apple TV Store,premium,20260315,20270315,True,8.43
+51,20260315,Fight Club,1999,Amazon Video,rent,20260315,20270315,True,8.43
+52,20260315,Rear Window,1954,YouTube TV,flatrate,20260315,20270315,True,8.34
+53,20260315,Rear Window,1954,Amazon Video,rent,20260315,20270315,True,8.34
+54,20260315,City of God,2002,Paramount Plus Essential,flatrate,20260315,20270315,True,8.42
+55,20260315,City of God,2002,Amazon Video,rent,20260315,20270315,True,8.42
+56,20260315,Sunset Boulevard,1950,Paramount Plus Premium,flatrate,20260315,20270315,True,8.3
+57,20260315,Sunset Boulevard,1950,Amazon Video,rent,20260315,20270315,True,8.3
+58,20260315,The Matrix,1999,YouTube TV,flatrate,20260315,20270315,True,8.23
+59,20260315,The Matrix,1999,Apple TV Store,premium,20260315,20270315,True,8.23
+60,20260315,Life Is Beautiful,1997,fuboTV,flatrate,20260315,20270315,True,8.44
+61,20260315,Life Is Beautiful,1997,Amazon Video,rent,20260315,20270315,True,8.44
+62,20260315,Oldboy,2003,Amazon Video,rent,20260315,20270315,True,8.23
+63,20260315,Pulp Fiction,1994,Paramount Plus Premium,flatrate,20260315,20270315,True,8.48
+64,20260315,Pulp Fiction,1994,Amazon Video,rent,20260315,20270315,True,8.48
+65,20260315,GoodFellas,1990,AMC+ Amazon Channel,flatrate,20260315,20270315,True,8.5
+66,20260315,GoodFellas,1990,Amazon Video,rent,20260315,20270315,True,8.5
+67,20260315,Se7en,1995,Amazon Video,rent,20260315,20270315,True,8.37
+68,20260315,Saving Private Ryan,1998,Amazon Video,rent,20260315,20270315,True,8.22
+69,20260315,City Lights,1931,Amazon Prime Video,flatrate,20260315,20270315,True,8.25
+70,20260315,City Lights,1931,Amazon Video,rent,20260315,20270315,True,8.25
+71,20260315,The Great Dictator,1940,fuboTV,flatrate,20260315,20270315,True,8.3
+72,20260315,The Great Dictator,1940,Amazon Video,rent,20260315,20270315,True,8.3
+73,20260315,Paths of Glory,1957,fuboTV,flatrate,20260315,20270315,True,8.25
+74,20260315,Paths of Glory,1957,Amazon Video,rent,20260315,20270315,True,8.25
+75,20260315,It's a Wonderful Life,1946,Amazon Prime Video,flatrate,20260315,20270315,True,8.27
+76,20260315,It's a Wonderful Life,1946,Amazon Video,rent,20260315,20270315,True,8.27
+77,20260315,The Empire Strikes Back,1980,Disney Plus,flatrate,20260315,20270315,True,8.39
+78,20260315,The Empire Strikes Back,1980,Amazon Video,rent,20260315,20270315,True,8.39
+79,20260315,Modern Times,1936,Amazon Prime Video,flatrate,20260315,20270315,True,8.3
+80,20260315,Modern Times,1936,Amazon Video,rent,20260315,20270315,True,8.3
+81,20260315,Ikiru,1952,HBO Max,flatrate,20260315,20270315,True,8.3
+82,20260315,Ikiru,1952,Amazon Video,rent,20260315,20270315,True,8.3
+83,20260315,Howl's Moving Castle,2004,HBO Max,flatrate,20260315,20270315,True,8.38
+84,20260315,Howl's Moving Castle,2004,Amazon Video,rent,20260315,20270315,True,8.38
+85,20260315,The Lion King,1994,Disney Plus,flatrate,20260315,20270315,True,8.25
+86,20260315,The Lion King,1994,Apple TV Store,premium,20260315,20270315,True,8.25
+87,20260315,The Lion King,1994,Amazon Video,rent,20260315,20270315,True,8.25
+88,20260315,The Legend of 1900,1998,Amazon Video,rent,20260315,20270315,True,8.24
+89,20260315,Perfect Blue,1998,HBO Max,flatrate,20260315,20270315,True,8.29
+90,20260315,Perfect Blue,1998,Amazon Video,rent,20260315,20270315,True,8.29
+91,20260315,Cinema Paradiso,1988,fuboTV,flatrate,20260315,20270315,True,8.42
+92,20260315,Cinema Paradiso,1988,Amazon Video,rent,20260315,20270315,True,8.42
+93,20260315,Grave of the Fireflies,1988,Netflix,flatrate,20260315,20270315,True,8.4
+94,20260315,Grave of the Fireflies,1988,Amazon Video,rent,20260315,20270315,True,8.4
+95,20260315,High and Low,1963,HBO Max,flatrate,20260315,20270315,True,8.35
+96,20260315,High and Low,1963,Amazon Video,rent,20260315,20270315,True,8.35
+97,20260315,Harakiri,1962,Criterion Channel,flatrate,20260315,20270315,True,8.4
+98,20260315,Harakiri,1962,Amazon Video,rent,20260315,20270315,True,8.4
+99,20260315,A Brighter Summer Day,1991,Criterion Channel,flatrate,20260315,20270315,True,8.3
+100,20260315,A Brighter Summer Day,1991,Amazon Video,rent,20260315,20270315,True,8.3
+101,20260315,Neon Genesis Evangelion: The End of Evangelion,1997,Netflix,flatrate,20260315,20270315,True,8.3
+102,20260315,Neon Genesis Evangelion: The End of Evangelion,1997,Amazon Video,rent,20260315,20270315,True,8.3
+103,20260315,Dilwale Dulhania Le Jayenge,1995,Netflix,flatrate,20260315,20270315,True,8.5
+104,20260315,Dilwale Dulhania Le Jayenge,1995,Apple TV Store,premium,20260315,20270315,True,8.5
+105,20260315,Inception,2010,HBO Max,flatrate,20260315,20270315,True,8.37
+106,20260315,Inception,2010,Amazon Video,rent,20260315,20270315,True,8.37
+107,20260315,Le Trou,1960,Criterion Channel,flatrate,20260315,20270315,True,8.25
+108,20260315,We All Loved Each Other So Much,1974,Criterion Channel,flatrate,20260315,20270315,True,8.28
+109,20260315,The Intouchables,2011,Amazon Video,rent,20260315,20270315,True,8.27
+110,20260315,Wolf Children,2012,HBO Max,flatrate,20260315,20270315,True,8.2
+111,20260315,Wolf Children,2012,Amazon Video,rent,20260315,20270315,True,8.2
+112,20260315,Interstellar,2014,Paramount Plus Premium,flatrate,20260315,20270315,True,8.46
+113,20260315,Interstellar,2014,Amazon Video,rent,20260315,20270315,True,8.46
+114,20260315,Whiplash,2014,Netflix,flatrate,20260315,20270315,True,8.4
+115,20260315,Whiplash,2014,Amazon Video,rent,20260315,20270315,True,8.4
+116,20260315,Hope,2013,Amazon Video,rent,20260315,20270315,True,8.39
+117,20260315,Avengers: Endgame,2019,Disney Plus,flatrate,20260315,20270315,True,8.2
+118,20260315,Avengers: Endgame,2019,Amazon Video,rent,20260315,20270315,True,8.2
+119,20260315,Avengers: Infinity War,2018,Disney Plus,flatrate,20260315,20270315,True,8.23
+120,20260315,Avengers: Infinity War,2018,Amazon Video,rent,20260315,20270315,True,8.23
+121,20260315,Spider-Man: Into the Spider-Verse,2018,Netflix,flatrate,20260315,20270315,True,8.4
+122,20260315,Spider-Man: Into the Spider-Verse,2018,Amazon Video,rent,20260315,20270315,True,8.4
+123,20260315,Your Name.,2016,HBO Max,flatrate,20260315,20270315,True,8.47
+124,20260315,Your Name.,2016,Amazon Video,rent,20260315,20270315,True,8.47
+125,20260315,Dou kyu sei – Classmates,2016,Amazon Video,rent,20260315,20270315,True,8.3
+126,20260315,A Silent Voice: The Movie,2016,Crunchyroll,flatrate,20260315,20270315,True,8.4
+127,20260315,A Silent Voice: The Movie,2016,Amazon Video,rent,20260315,20270315,True,8.4
+128,20260315,Life in a Year,2020,Amazon Video,rent,20260315,20270315,True,8.23
+129,20260315,Green Book,2018,fuboTV,flatrate,20260315,20270315,True,8.22
+130,20260315,Green Book,2018,Amazon Video,rent,20260315,20270315,True,8.22
+131,20260315,Parasite,2019,Amazon Video,rent,20260315,20270315,True,8.49
+132,20260315,Klaus,2019,Netflix,flatrate,20260315,20270315,True,8.22
+133,20260315,Violet Evergarden: The Movie,2020,Netflix,flatrate,20260315,20270315,True,8.3
+134,20260315,Violet Evergarden: The Movie,2020,Amazon Video,rent,20260315,20270315,True,8.3
+135,20260315,Spider-Man: Across the Spider-Verse,2023,Disney Plus,flatrate,20260315,20270315,True,8.3
+136,20260315,Spider-Man: Across the Spider-Verse,2023,Amazon Video,rent,20260315,20270315,True,8.3
+137,20260315,Rascal Does Not Dream of a Dreaming Girl,2019,Crunchyroll Amazon Channel,flatrate,20260315,20270315,True,8.25
+138,20260315,The Legend of Hei,2019,Crunchyroll,flatrate,20260315,20270315,True,8.3
+139,20260315,The Legend of Hei,2019,Amazon Video,rent,20260315,20270315,True,8.3
+140,20260315,Clouds,2020,Amazon Video,rent,20260315,20270315,True,8.23
+141,20260315,Given,2020,Crunchyroll,flatrate,20260315,20270315,True,8.3
+142,20260315,Given,2020,Apple TV Store,premium,20260315,20270315,True,8.3
+143,20260315,Miracle in Cell No. 7,2019,Netflix,flatrate,20260315,20270315,True,8.3
+144,20260315,Miracle in Cell No. 7,2019,Apple TV Store,premium,20260315,20270315,True,8.3
+145,20260315,"Josee, the Tiger and the Fish",2020,Crunchyroll,flatrate,20260315,20270315,True,8.3
+146,20260315,"Josee, the Tiger and the Fish",2020,Amazon Video,rent,20260315,20270315,True,8.3
+147,20260315,Out of the Clear Blue Sky,2019,Netflix,flatrate,20260315,20270315,True,8.25
+148,20260315,Gabriel's Inferno,2020,Passionflix Amazon Channel,flatrate,20260315,20270315,True,8.39
+149,20260315,Gabriel's Inferno,2020,Amazon Video,rent,20260315,20270315,True,8.39
+150,20260315,Gabriel's Inferno: Part II,2020,Passionflix Amazon Channel,flatrate,20260315,20270315,True,8.36
+151,20260315,Gabriel's Inferno: Part II,2020,Amazon Video,rent,20260315,20270315,True,8.36
+152,20260315,Gabriel's Inferno: Part III,2020,Passionflix Amazon Channel,flatrate,20260315,20270315,True,8.36
+153,20260315,Gabriel's Inferno: Part III,2020,Amazon Video,rent,20260315,20270315,True,8.36
+154,20260315,Lucy Shimmers and the Prince of Peace,2020,Amazon Prime Video,flatrate,20260315,20270315,True,8.36
+155,20260315,Lucy Shimmers and the Prince of Peace,2020,Amazon Video,rent,20260315,20270315,True,8.36
+156,20260315,The Quintessential Quintuplets Movie,2022,Netflix,flatrate,20260315,20270315,True,8.3
+157,20260315,The Quintessential Quintuplets Movie,2022,Apple TV Store,premium,20260315,20270315,True,8.3
+158,20260315,Radical,2023,Amazon Prime Video,flatrate,20260315,20270315,True,8.3
+159,20260315,Radical,2023,Amazon Video,rent,20260315,20270315,True,8.3
+160,20260315,Once Upon a Studio,2023,Disney Plus,flatrate,20260315,20270315,True,8.3
+161,20260315,¿Quieres ser mi hijo?,2023,Amazon Video,rent,20260315,20270315,True,8.53
+162,20260315,¿Quieres ser mi hijo?,2023,Apple TV Store,premium,20260315,20270315,True,8.53
+163,20260315,The Wild Robot,2024,Netflix,flatrate,20260315,20270315,True,8.3
+164,20260315,The Wild Robot,2024,Amazon Video,rent,20260315,20270315,True,8.3
+165,20260315,The Forge,2024,Netflix,flatrate,20260315,20270315,True,8.2
+166,20260315,The Forge,2024,Amazon Video,rent,20260315,20270315,True,8.2
+167,20260315,Chainsaw Man - The Movie: Reze Arc,2025,Google Play Movies,rent,20260315,20270315,True,8.32
+168,20260315,Chainsaw Man - The Movie: Reze Arc,2025,Amazon Video,rent,20260315,20270315,True,8.32
+169,20260315,Counterattack,2025,Netflix,flatrate,20260315,20270315,True,8.25

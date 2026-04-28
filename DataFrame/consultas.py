@@ -323,15 +323,11 @@ def consulta_5():
 
 
 # ---------------------------------------------------------------------------------
-# Consulta 6
-# ¿Qué categorías de contenido registran mayor número de reproducciones
-# para un actor específico en cada país?
+# Consulta 6 - DATAMART STREAMING
+# Hecho: eventostreaming
 # ---------------------------------------------------------------------------------
-
-def consulta_6(actor="Tom Hanks"):
+def consulta_6():
     resultado = list(eventostreaming.aggregate([
-
-        # 1. Evento -> Cliente
         {
             "$lookup": {
                 "from": "cliente",
@@ -342,7 +338,6 @@ def consulta_6(actor="Tom Hanks"):
         },
         {"$unwind": "$cliente"},
 
-        # 2. Cliente -> Geografía
         {
             "$lookup": {
                 "from": "geografia",
@@ -353,97 +348,209 @@ def consulta_6(actor="Tom Hanks"):
         },
         {"$unwind": "$geografia"},
 
-        # 3. Evento -> ContenidoTalento
         {
             "$lookup": {
-                "from": "contenidotalento",
+                "from": "contenido",
                 "localField": "Content Key",
-                "foreignField": "Content Key",
-                "as": "contenido_talento"
-            }
-        },
-        {"$unwind": "$contenido_talento"},
-
-        # 4. ContenidoTalento -> Talento
-        {
-            "$lookup": {
-                "from": "talento",
-                "localField": "contenido_talento.Talent Key",
                 "foreignField": "Key",
-                "as": "talento"
+                "as": "contenido"
             }
         },
-        {"$unwind": "$talento"},
+        {"$unwind": "$contenido"},
 
-        # 5. Crear nombre completo del actor
-        {
-            "$addFields": {
-                "Actor": {
-                    "$concat": [
-                        "$talento.First Name",
-                        " ",
-                        "$talento.Last Name"
-                    ]
-                }
-            }
-        },
-
-        # 6. Filtrar solo el actor elegido
-        {"$match": {"Actor": actor}},
-
-        # 7. Evento -> ContenidoCategoria
         {
             "$lookup": {
-                "from": "contenidocategoria",
-                "localField": "Content Key",
-                "foreignField": "Content Key",
-                "as": "contenido_categoria"
-            }
-        },
-        {"$unwind": "$contenido_categoria"},
-
-        # 8. ContenidoCategoria -> Categoria
-        {
-            "$lookup": {
-                "from": "categoria",
-                "localField": "contenido_categoria.Category Key",
+                "from": "proveedor",
+                "localField": "Provider Key",
                 "foreignField": "Key",
-                "as": "categoria"
+                "as": "proveedor"
             }
         },
-        {"$unwind": "$categoria"},
+        {"$unwind": "$proveedor"},
 
-        # 9. Agrupar por país y categoría
-        {
-            "$group": {
-                "_id": {
-                    "Pais": "$geografia.Country",
-                    "Categoria": "$categoria.Name"
-                },
-                "Total_Reproducciones": {"$sum": "$Streams Count"},
-                "Total_Eventos": {"$sum": 1},
-                "Total_Minutos": {"$sum": "$Minutes Watched"}
-            }
-        },
-
-        # 10. Mostrar limpio
         {
             "$project": {
                 "_id": 0,
-                "Actor": actor,
-                "Pais": "$_id.Pais",
-                "Categoria": "$_id.Categoria",
-                "Total_Reproducciones": 1,
-                "Total_Eventos": 1,
-                "Total_Minutos": 1
+                "Evento_ID": "$Stream Event Key",
+                "Fecha_ID": "$Date Key",
+                "Cliente": {"$concat": ["$cliente.First Name", " ", "$cliente.Last Name"]},
+                "Pais": "$geografia.Country",
+                "Ciudad": "$geografia.City",
+                "Contenido": "$contenido.Title",
+                "Proveedor": "$proveedor.Name",
+                "Total_Reproducciones": "$Streams Count",
+                "Minutos_Vistos": "$Minutes Watched",
+                "Porcentaje_Visto": "$Watch Percentage",
+                "Completado": "$Completion Flag"
+            }
+        }
+    ]))
+
+    return pd.DataFrame(resultado)
+
+
+# ---------------------------------------------------------------------------------
+# Consulta 7 - DATAMART PAGOS
+# Hecho: pagos
+# ---------------------------------------------------------------------------------
+def consulta_7():
+    resultado = list(pagos.aggregate([
+        {
+            "$lookup": {
+                "from": "cliente",
+                "localField": "Customer Key",
+                "foreignField": "Key",
+                "as": "cliente"
             }
         },
+        {"$unwind": "$cliente"},
 
-        # 11. Ordenar
-        {"$sort": {"Pais": 1, "Total_Reproducciones": -1}},
+        {
+            "$lookup": {
+                "from": "geografia",
+                "localField": "cliente.Geography Key",
+                "foreignField": "Key",
+                "as": "geografia"
+            }
+        },
+        {"$unwind": "$geografia"},
 
-        # 12. Top 20
-        {"$limit": 20}
+        {
+            "$lookup": {
+                "from": "proveedor",
+                "localField": "Provider Key",
+                "foreignField": "Key",
+                "as": "proveedor"
+            }
+        },
+        {"$unwind": "$proveedor"},
+
+        {
+            "$lookup": {
+                "from": "plansuscripcion",
+                "localField": "Subscription Plan Key",
+                "foreignField": "Key",
+                "as": "plan"
+            }
+        },
+        {"$unwind": "$plan"},
+
+        {
+            "$project": {
+                "_id": 0,
+                "Pago_ID": "$Payment Key",
+                "Fecha_ID": "$Date Key",
+                "Cliente": {"$concat": ["$cliente.First Name", " ", "$cliente.Last Name"]},
+                "Pais": "$geografia.Country",
+                "Ciudad": "$geografia.City",
+                "Proveedor": "$proveedor.Name",
+                "Tipo_Plan": "$plan.Type",
+                "Monto": "$Amount",
+                "Impuesto": "$Tax Amount",
+                "Descuento": "$Discount Amount"
+            }
+        }
+    ]))
+
+    return pd.DataFrame(resultado)
+
+
+# ---------------------------------------------------------------------------------
+# Consulta 8 - DATAMART SUSCRIPCIONES
+# Hecho: suscripcion
+# ---------------------------------------------------------------------------------
+def consulta_8():
+    resultado = list(suscripcion.aggregate([
+        {
+            "$lookup": {
+                "from": "cliente",
+                "localField": "Customer Key",
+                "foreignField": "Key",
+                "as": "cliente"
+            }
+        },
+        {"$unwind": "$cliente"},
+
+        {
+            "$lookup": {
+                "from": "proveedor",
+                "localField": "Provider Key",
+                "foreignField": "Key",
+                "as": "proveedor"
+            }
+        },
+        {"$unwind": "$proveedor"},
+
+        {
+            "$lookup": {
+                "from": "plansuscripcion",
+                "localField": "Plan Key",
+                "foreignField": "Key",
+                "as": "plan"
+            }
+        },
+        {"$unwind": "$plan"},
+
+        {
+            "$project": {
+                "_id": 0,
+                "Suscripcion_ID": "$Subscription Fact Key",
+                "Fecha_ID": "$Date Key",
+                "Cliente": {"$concat": ["$cliente.First Name", " ", "$cliente.Last Name"]},
+                "Proveedor": "$proveedor.Name",
+                "Tipo_Plan": "$plan.Type",
+                "Fecha_Inicio_ID": "$Subscription Start Date Key",
+                "Fecha_Fin_ID": "$Subscription End Date Key",
+                "Activo": "$Is Active",
+                "Ingreso": "$Revenue"
+            }
+        }
+    ]))
+
+    return pd.DataFrame(resultado)
+
+
+# ---------------------------------------------------------------------------------
+# Consulta 9 - DATAMART CATÁLOGO DISPONIBLE
+# Hecho: catalogodisponible
+# ---------------------------------------------------------------------------------
+def consulta_9():
+    resultado = list(catalogodisponible.aggregate([
+        {
+            "$lookup": {
+                "from": "contenido",
+                "localField": "Content Key",
+                "foreignField": "Key",
+                "as": "contenido"
+            }
+        },
+        {"$unwind": "$contenido"},
+
+        {
+            "$lookup": {
+                "from": "proveedor",
+                "localField": "Provider Key",
+                "foreignField": "Key",
+                "as": "proveedor"
+            }
+        },
+        {"$unwind": "$proveedor"},
+
+        {
+            "$project": {
+                "_id": 0,
+                "Catalogo_ID": "$Catalog Key",
+                "Fecha_ID": "$Date Key",
+                "Contenido": "$contenido.Title",
+                "Anio_Lanzamiento": "$contenido.Release Year",
+                "Proveedor": "$proveedor.Name",
+                "Tipo_Proveedor": "$proveedor.Type",
+                "Licencia_Inicio_ID": "$License Start Date Key",
+                "Licencia_Fin_ID": "$License End Date Key",
+                "Disponible": "$Is Available",
+                "Ranking_Catalogo": "$Catalog Rank Score"
+            }
+        }
     ]))
 
     return pd.DataFrame(resultado)
