@@ -59,7 +59,7 @@ ARCHIVOS = {
 
 print("\n=== CONVIRTIENDO 16 EXCELS DIRECTAMENTE A 16 COLECCIONES ===")
 pwd = os.path.dirname(__file__) if '__file__' in globals() else os.getcwd()
-json_dir = os.path.join(pwd, 'json')
+json_dir = os.path.join(pwd, 'Json')
 os.makedirs(json_dir, exist_ok=True)
 
 # ---------------------------------------------------------

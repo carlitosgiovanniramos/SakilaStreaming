@@ -39,7 +39,7 @@ while True:
             print("\n--- DATASETS ---")
             for i in range(1, 10):
                 print(f"{i}. Dataset Consulta {i}")
-            print("10. Generar todos")   # 🔥 CAMBIO AQUÍ
+            print("10. Generar todos")  
             print("0. Volver")
 
             op_ds = input("Elige una opción: ")
@@ -48,7 +48,7 @@ while True:
                 break
 
             try:
-                # 🔥 GENERAR TODOS
+                
                 if op_ds == "10":
                     for i in range(1, 10):
                         try:
@@ -58,7 +58,7 @@ while True:
                             pass
                     print("✅ Todos los datasets generados")
 
-                # 🔥 DATASET INDIVIDUAL
+                
                 else:
                     funcion = globals()[f"dataset_consulta_{op_ds}"]
                     df = funcion()
