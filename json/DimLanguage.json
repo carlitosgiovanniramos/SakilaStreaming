@@ -1,0 +1,68 @@
+[
+    {
+        "Key": 210,
+        "ID": "en",
+        "ISO": "en",
+        "Name": "English"
+    },
+    {
+        "Key": 211,
+        "ID": "es",
+        "ISO": "es",
+        "Name": "Spanish"
+    },
+    {
+        "Key": 212,
+        "ID": "fr",
+        "ISO": "fr",
+        "Name": "French"
+    },
+    {
+        "Key": 213,
+        "ID": "hi",
+        "ISO": "hi",
+        "Name": "Hindi"
+    },
+    {
+        "Key": 214,
+        "ID": "it",
+        "ISO": "it",
+        "Name": "Italian"
+    },
+    {
+        "Key": 215,
+        "ID": "ja",
+        "ISO": "ja",
+        "Name": "Japanese"
+    },
+    {
+        "Key": 216,
+        "ID": "ko",
+        "ISO": "ko",
+        "Name": "Korean"
+    },
+    {
+        "Key": 217,
+        "ID": "pt",
+        "ISO": "pt",
+        "Name": "Portuguese"
+    },
+    {
+        "Key": 218,
+        "ID": "ru",
+        "ISO": "ru",
+        "Name": "Russian"
+    },
+    {
+        "Key": 219,
+        "ID": "tr",
+        "ISO": "tr",
+        "Name": "Turkish"
+    },
+    {
+        "Key": 220,
+        "ID": "zh",
+        "ISO": "zh",
+        "Name": "Mandarin"
+    }
+]

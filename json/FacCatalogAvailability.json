@@ -1,0 +1,1692 @@
+[
+    {
+        "Catalog Key": 1,
+        "Date Key": 20260315,
+        "Content Key": 1501,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.46
+    },
+    {
+        "Catalog Key": 2,
+        "Date Key": 20260315,
+        "Content Key": 1501,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.46
+    },
+    {
+        "Catalog Key": 3,
+        "Date Key": 20260315,
+        "Content Key": 1502,
+        "Provider Key": 311,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.26
+    },
+    {
+        "Catalog Key": 4,
+        "Date Key": 20260315,
+        "Content Key": 1502,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.26
+    },
+    {
+        "Catalog Key": 5,
+        "Date Key": 20260315,
+        "Content Key": 1503,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.32
+    },
+    {
+        "Catalog Key": 6,
+        "Date Key": 20260315,
+        "Content Key": 1504,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.22
+    },
+    {
+        "Catalog Key": 7,
+        "Date Key": 20260315,
+        "Content Key": 1504,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.22
+    },
+    {
+        "Catalog Key": 8,
+        "Date Key": 20260315,
+        "Content Key": 1505,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.29
+    },
+    {
+        "Catalog Key": 9,
+        "Date Key": 20260315,
+        "Content Key": 1505,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.29
+    },
+    {
+        "Catalog Key": 10,
+        "Date Key": 20260315,
+        "Content Key": 1506,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.32
+    },
+    {
+        "Catalog Key": 11,
+        "Date Key": 20260315,
+        "Content Key": 1507,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.42
+    },
+    {
+        "Catalog Key": 12,
+        "Date Key": 20260315,
+        "Content Key": 1507,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.42
+    },
+    {
+        "Catalog Key": 13,
+        "Date Key": 20260315,
+        "Content Key": 1508,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 14,
+        "Date Key": 20260315,
+        "Content Key": 1508,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 15,
+        "Date Key": 20260315,
+        "Content Key": 1509,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.49
+    },
+    {
+        "Catalog Key": 16,
+        "Date Key": 20260315,
+        "Content Key": 1509,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.49
+    },
+    {
+        "Catalog Key": 17,
+        "Date Key": 20260315,
+        "Content Key": 1510,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.32
+    },
+    {
+        "Catalog Key": 18,
+        "Date Key": 20260315,
+        "Content Key": 1510,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.32
+    },
+    {
+        "Catalog Key": 19,
+        "Date Key": 20260315,
+        "Content Key": 1511,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.53
+    },
+    {
+        "Catalog Key": 20,
+        "Date Key": 20260315,
+        "Content Key": 1511,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.53
+    },
+    {
+        "Catalog Key": 21,
+        "Date Key": 20260315,
+        "Content Key": 1512,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.52
+    },
+    {
+        "Catalog Key": 22,
+        "Date Key": 20260315,
+        "Content Key": 1512,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.52
+    },
+    {
+        "Catalog Key": 23,
+        "Date Key": 20260315,
+        "Content Key": 1513,
+        "Provider Key": 306,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 24,
+        "Date Key": 20260315,
+        "Content Key": 1513,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 25,
+        "Date Key": 20260315,
+        "Content Key": 1514,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.68
+    },
+    {
+        "Catalog Key": 26,
+        "Date Key": 20260315,
+        "Content Key": 1514,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.68
+    },
+    {
+        "Catalog Key": 27,
+        "Date Key": 20260315,
+        "Content Key": 1515,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.57
+    },
+    {
+        "Catalog Key": 28,
+        "Date Key": 20260315,
+        "Content Key": 1515,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.57
+    },
+    {
+        "Catalog Key": 29,
+        "Date Key": 20260315,
+        "Content Key": 1516,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.34
+    },
+    {
+        "Catalog Key": 30,
+        "Date Key": 20260315,
+        "Content Key": 1516,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.34
+    },
+    {
+        "Catalog Key": 31,
+        "Date Key": 20260315,
+        "Content Key": 1517,
+        "Provider Key": 314,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.71
+    },
+    {
+        "Catalog Key": 32,
+        "Date Key": 20260315,
+        "Content Key": 1517,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.71
+    },
+    {
+        "Catalog Key": 33,
+        "Date Key": 20260315,
+        "Content Key": 1518,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.38
+    },
+    {
+        "Catalog Key": 34,
+        "Date Key": 20260315,
+        "Content Key": 1519,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.28
+    },
+    {
+        "Catalog Key": 35,
+        "Date Key": 20260315,
+        "Content Key": 1520,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.45
+    },
+    {
+        "Catalog Key": 36,
+        "Date Key": 20260315,
+        "Content Key": 1520,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.45
+    },
+    {
+        "Catalog Key": 37,
+        "Date Key": 20260315,
+        "Content Key": 1521,
+        "Provider Key": 311,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.55
+    },
+    {
+        "Catalog Key": 38,
+        "Date Key": 20260315,
+        "Content Key": 1521,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.55
+    },
+    {
+        "Catalog Key": 39,
+        "Date Key": 20260315,
+        "Content Key": 1522,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.37
+    },
+    {
+        "Catalog Key": 40,
+        "Date Key": 20260315,
+        "Content Key": 1522,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.37
+    },
+    {
+        "Catalog Key": 41,
+        "Date Key": 20260315,
+        "Content Key": 1523,
+        "Provider Key": 312,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.56
+    },
+    {
+        "Catalog Key": 42,
+        "Date Key": 20260315,
+        "Content Key": 1523,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.56
+    },
+    {
+        "Catalog Key": 43,
+        "Date Key": 20260315,
+        "Content Key": 1524,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.46
+    },
+    {
+        "Catalog Key": 44,
+        "Date Key": 20260315,
+        "Content Key": 1524,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.46
+    },
+    {
+        "Catalog Key": 45,
+        "Date Key": 20260315,
+        "Content Key": 1525,
+        "Provider Key": 319,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.5
+    },
+    {
+        "Catalog Key": 46,
+        "Date Key": 20260315,
+        "Content Key": 1525,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.5
+    },
+    {
+        "Catalog Key": 47,
+        "Date Key": 20260315,
+        "Content Key": 1526,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.41
+    },
+    {
+        "Catalog Key": 48,
+        "Date Key": 20260315,
+        "Content Key": 1527,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.41
+    },
+    {
+        "Catalog Key": 49,
+        "Date Key": 20260315,
+        "Content Key": 1528,
+        "Provider Key": 306,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.43
+    },
+    {
+        "Catalog Key": 50,
+        "Date Key": 20260315,
+        "Content Key": 1528,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.43
+    },
+    {
+        "Catalog Key": 51,
+        "Date Key": 20260315,
+        "Content Key": 1528,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.43
+    },
+    {
+        "Catalog Key": 52,
+        "Date Key": 20260315,
+        "Content Key": 1529,
+        "Provider Key": 319,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.34
+    },
+    {
+        "Catalog Key": 53,
+        "Date Key": 20260315,
+        "Content Key": 1529,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.34
+    },
+    {
+        "Catalog Key": 54,
+        "Date Key": 20260315,
+        "Content Key": 1530,
+        "Provider Key": 320,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.42
+    },
+    {
+        "Catalog Key": 55,
+        "Date Key": 20260315,
+        "Content Key": 1530,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.42
+    },
+    {
+        "Catalog Key": 56,
+        "Date Key": 20260315,
+        "Content Key": 1531,
+        "Provider Key": 317,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 57,
+        "Date Key": 20260315,
+        "Content Key": 1531,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 58,
+        "Date Key": 20260315,
+        "Content Key": 1532,
+        "Provider Key": 319,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 59,
+        "Date Key": 20260315,
+        "Content Key": 1532,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 60,
+        "Date Key": 20260315,
+        "Content Key": 1533,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.44
+    },
+    {
+        "Catalog Key": 61,
+        "Date Key": 20260315,
+        "Content Key": 1533,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.44
+    },
+    {
+        "Catalog Key": 62,
+        "Date Key": 20260315,
+        "Content Key": 1534,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 63,
+        "Date Key": 20260315,
+        "Content Key": 1535,
+        "Provider Key": 317,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.48
+    },
+    {
+        "Catalog Key": 64,
+        "Date Key": 20260315,
+        "Content Key": 1535,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.48
+    },
+    {
+        "Catalog Key": 65,
+        "Date Key": 20260315,
+        "Content Key": 1536,
+        "Provider Key": 313,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.5
+    },
+    {
+        "Catalog Key": 66,
+        "Date Key": 20260315,
+        "Content Key": 1536,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.5
+    },
+    {
+        "Catalog Key": 67,
+        "Date Key": 20260315,
+        "Content Key": 1537,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.37
+    },
+    {
+        "Catalog Key": 68,
+        "Date Key": 20260315,
+        "Content Key": 1538,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.22
+    },
+    {
+        "Catalog Key": 69,
+        "Date Key": 20260315,
+        "Content Key": 1539,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 70,
+        "Date Key": 20260315,
+        "Content Key": 1539,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 71,
+        "Date Key": 20260315,
+        "Content Key": 1540,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 72,
+        "Date Key": 20260315,
+        "Content Key": 1540,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 73,
+        "Date Key": 20260315,
+        "Content Key": 1541,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 74,
+        "Date Key": 20260315,
+        "Content Key": 1541,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 75,
+        "Date Key": 20260315,
+        "Content Key": 1542,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.27
+    },
+    {
+        "Catalog Key": 76,
+        "Date Key": 20260315,
+        "Content Key": 1542,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.27
+    },
+    {
+        "Catalog Key": 77,
+        "Date Key": 20260315,
+        "Content Key": 1543,
+        "Provider Key": 310,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.39
+    },
+    {
+        "Catalog Key": 78,
+        "Date Key": 20260315,
+        "Content Key": 1543,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.39
+    },
+    {
+        "Catalog Key": 79,
+        "Date Key": 20260315,
+        "Content Key": 1544,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 80,
+        "Date Key": 20260315,
+        "Content Key": 1544,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 81,
+        "Date Key": 20260315,
+        "Content Key": 1545,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 82,
+        "Date Key": 20260315,
+        "Content Key": 1545,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 83,
+        "Date Key": 20260315,
+        "Content Key": 1546,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.38
+    },
+    {
+        "Catalog Key": 84,
+        "Date Key": 20260315,
+        "Content Key": 1546,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.38
+    },
+    {
+        "Catalog Key": 85,
+        "Date Key": 20260315,
+        "Content Key": 1547,
+        "Provider Key": 310,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 86,
+        "Date Key": 20260315,
+        "Content Key": 1547,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 87,
+        "Date Key": 20260315,
+        "Content Key": 1547,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 88,
+        "Date Key": 20260315,
+        "Content Key": 1548,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.24
+    },
+    {
+        "Catalog Key": 89,
+        "Date Key": 20260315,
+        "Content Key": 1549,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.29
+    },
+    {
+        "Catalog Key": 90,
+        "Date Key": 20260315,
+        "Content Key": 1549,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.29
+    },
+    {
+        "Catalog Key": 91,
+        "Date Key": 20260315,
+        "Content Key": 1550,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.42
+    },
+    {
+        "Catalog Key": 92,
+        "Date Key": 20260315,
+        "Content Key": 1550,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.42
+    },
+    {
+        "Catalog Key": 93,
+        "Date Key": 20260315,
+        "Content Key": 1551,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 94,
+        "Date Key": 20260315,
+        "Content Key": 1551,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 95,
+        "Date Key": 20260315,
+        "Content Key": 1552,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.35
+    },
+    {
+        "Catalog Key": 96,
+        "Date Key": 20260315,
+        "Content Key": 1552,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.35
+    },
+    {
+        "Catalog Key": 97,
+        "Date Key": 20260315,
+        "Content Key": 1553,
+        "Provider Key": 308,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 98,
+        "Date Key": 20260315,
+        "Content Key": 1553,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 99,
+        "Date Key": 20260315,
+        "Content Key": 1554,
+        "Provider Key": 308,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 100,
+        "Date Key": 20260315,
+        "Content Key": 1554,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 101,
+        "Date Key": 20260315,
+        "Content Key": 1555,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 102,
+        "Date Key": 20260315,
+        "Content Key": 1555,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 103,
+        "Date Key": 20260315,
+        "Content Key": 1556,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.5
+    },
+    {
+        "Catalog Key": 104,
+        "Date Key": 20260315,
+        "Content Key": 1556,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.5
+    },
+    {
+        "Catalog Key": 105,
+        "Date Key": 20260315,
+        "Content Key": 1557,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.37
+    },
+    {
+        "Catalog Key": 106,
+        "Date Key": 20260315,
+        "Content Key": 1557,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.37
+    },
+    {
+        "Catalog Key": 107,
+        "Date Key": 20260315,
+        "Content Key": 1558,
+        "Provider Key": 308,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 108,
+        "Date Key": 20260315,
+        "Content Key": 1560,
+        "Provider Key": 308,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.28
+    },
+    {
+        "Catalog Key": 109,
+        "Date Key": 20260315,
+        "Content Key": 1561,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.27
+    },
+    {
+        "Catalog Key": 110,
+        "Date Key": 20260315,
+        "Content Key": 1563,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.2
+    },
+    {
+        "Catalog Key": 111,
+        "Date Key": 20260315,
+        "Content Key": 1563,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.2
+    },
+    {
+        "Catalog Key": 112,
+        "Date Key": 20260315,
+        "Content Key": 1564,
+        "Provider Key": 317,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.46
+    },
+    {
+        "Catalog Key": 113,
+        "Date Key": 20260315,
+        "Content Key": 1564,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.46
+    },
+    {
+        "Catalog Key": 114,
+        "Date Key": 20260315,
+        "Content Key": 1565,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 115,
+        "Date Key": 20260315,
+        "Content Key": 1565,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 116,
+        "Date Key": 20260315,
+        "Content Key": 1566,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.39
+    },
+    {
+        "Catalog Key": 117,
+        "Date Key": 20260315,
+        "Content Key": 1567,
+        "Provider Key": 310,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.2
+    },
+    {
+        "Catalog Key": 118,
+        "Date Key": 20260315,
+        "Content Key": 1567,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.2
+    },
+    {
+        "Catalog Key": 119,
+        "Date Key": 20260315,
+        "Content Key": 1568,
+        "Provider Key": 310,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 120,
+        "Date Key": 20260315,
+        "Content Key": 1568,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 121,
+        "Date Key": 20260315,
+        "Content Key": 1569,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 122,
+        "Date Key": 20260315,
+        "Content Key": 1569,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 123,
+        "Date Key": 20260315,
+        "Content Key": 1570,
+        "Provider Key": 315,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.47
+    },
+    {
+        "Catalog Key": 124,
+        "Date Key": 20260315,
+        "Content Key": 1570,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.47
+    },
+    {
+        "Catalog Key": 125,
+        "Date Key": 20260315,
+        "Content Key": 1571,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 126,
+        "Date Key": 20260315,
+        "Content Key": 1572,
+        "Provider Key": 309,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 127,
+        "Date Key": 20260315,
+        "Content Key": 1572,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.4
+    },
+    {
+        "Catalog Key": 128,
+        "Date Key": 20260315,
+        "Content Key": 1573,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 129,
+        "Date Key": 20260315,
+        "Content Key": 1574,
+        "Provider Key": 307,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.22
+    },
+    {
+        "Catalog Key": 130,
+        "Date Key": 20260315,
+        "Content Key": 1574,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.22
+    },
+    {
+        "Catalog Key": 131,
+        "Date Key": 20260315,
+        "Content Key": 1575,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.49
+    },
+    {
+        "Catalog Key": 132,
+        "Date Key": 20260315,
+        "Content Key": 1577,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.22
+    },
+    {
+        "Catalog Key": 133,
+        "Date Key": 20260315,
+        "Content Key": 1578,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 134,
+        "Date Key": 20260315,
+        "Content Key": 1578,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 135,
+        "Date Key": 20260315,
+        "Content Key": 1579,
+        "Provider Key": 310,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 136,
+        "Date Key": 20260315,
+        "Content Key": 1579,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 137,
+        "Date Key": 20260315,
+        "Content Key": 1580,
+        "Provider Key": 316,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 138,
+        "Date Key": 20260315,
+        "Content Key": 1581,
+        "Provider Key": 309,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 139,
+        "Date Key": 20260315,
+        "Content Key": 1581,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 140,
+        "Date Key": 20260315,
+        "Content Key": 1582,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.23
+    },
+    {
+        "Catalog Key": 141,
+        "Date Key": 20260315,
+        "Content Key": 1583,
+        "Provider Key": 309,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 142,
+        "Date Key": 20260315,
+        "Content Key": 1583,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 143,
+        "Date Key": 20260315,
+        "Content Key": 1584,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 144,
+        "Date Key": 20260315,
+        "Content Key": 1584,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 145,
+        "Date Key": 20260315,
+        "Content Key": 1586,
+        "Provider Key": 309,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 146,
+        "Date Key": 20260315,
+        "Content Key": 1586,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 147,
+        "Date Key": 20260315,
+        "Content Key": 1587,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    },
+    {
+        "Catalog Key": 148,
+        "Date Key": 20260315,
+        "Content Key": 1589,
+        "Provider Key": 318,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.39
+    },
+    {
+        "Catalog Key": 149,
+        "Date Key": 20260315,
+        "Content Key": 1589,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.39
+    },
+    {
+        "Catalog Key": 150,
+        "Date Key": 20260315,
+        "Content Key": 1590,
+        "Provider Key": 318,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.36
+    },
+    {
+        "Catalog Key": 151,
+        "Date Key": 20260315,
+        "Content Key": 1590,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.36
+    },
+    {
+        "Catalog Key": 152,
+        "Date Key": 20260315,
+        "Content Key": 1591,
+        "Provider Key": 318,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.36
+    },
+    {
+        "Catalog Key": 153,
+        "Date Key": 20260315,
+        "Content Key": 1591,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.36
+    },
+    {
+        "Catalog Key": 154,
+        "Date Key": 20260315,
+        "Content Key": 1592,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.36
+    },
+    {
+        "Catalog Key": 155,
+        "Date Key": 20260315,
+        "Content Key": 1592,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.36
+    },
+    {
+        "Catalog Key": 156,
+        "Date Key": 20260315,
+        "Content Key": 1593,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 157,
+        "Date Key": 20260315,
+        "Content Key": 1593,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 158,
+        "Date Key": 20260315,
+        "Content Key": 1594,
+        "Provider Key": 304,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 159,
+        "Date Key": 20260315,
+        "Content Key": 1594,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 160,
+        "Date Key": 20260315,
+        "Content Key": 1595,
+        "Provider Key": 310,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 161,
+        "Date Key": 20260315,
+        "Content Key": 1596,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.53
+    },
+    {
+        "Catalog Key": 162,
+        "Date Key": 20260315,
+        "Content Key": 1596,
+        "Provider Key": 301,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.53
+    },
+    {
+        "Catalog Key": 163,
+        "Date Key": 20260315,
+        "Content Key": 1597,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 164,
+        "Date Key": 20260315,
+        "Content Key": 1597,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.3
+    },
+    {
+        "Catalog Key": 165,
+        "Date Key": 20260315,
+        "Content Key": 1598,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.2
+    },
+    {
+        "Catalog Key": 166,
+        "Date Key": 20260315,
+        "Content Key": 1598,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.2
+    },
+    {
+        "Catalog Key": 167,
+        "Date Key": 20260315,
+        "Content Key": 1599,
+        "Provider Key": 302,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.32
+    },
+    {
+        "Catalog Key": 168,
+        "Date Key": 20260315,
+        "Content Key": 1599,
+        "Provider Key": 305,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.32
+    },
+    {
+        "Catalog Key": 169,
+        "Date Key": 20260315,
+        "Content Key": 1600,
+        "Provider Key": 303,
+        "License Start Date Key": 20260315,
+        "License End Date Key": 20270315,
+        "Is Available": true,
+        "Catalog Rank Score": 8.25
+    }
+]

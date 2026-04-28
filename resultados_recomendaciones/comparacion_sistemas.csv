@@ -1,0 +1,4 @@
+Metodo,Usuarios,Cobertura,Recomendaciones_Totales,Promedio_Usuario,Diversidad_Pct,Novedad_Pct,Score_Medio
+Usuario-Usuario,100,100/100,1000,10.0,100.0,3.0,266.19
+Item-Item,100,100/100,1000,10.0,100.0,3.0,266.65
+Contenido-Tokenizacion,100,100/100,1000,10.0,100.0,3.0,287.13

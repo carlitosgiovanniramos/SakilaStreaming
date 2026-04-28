@@ -1,0 +1,142 @@
+[
+    {
+        "Key": 301,
+        "ID": 2,
+        "Name": "Apple TV Store",
+        "Type": "premium",
+        "Country": "US"
+    },
+    {
+        "Key": 302,
+        "ID": 3,
+        "Name": "Google Play Movies",
+        "Type": "rent",
+        "Country": "US"
+    },
+    {
+        "Key": 303,
+        "ID": 8,
+        "Name": "Netflix",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 304,
+        "ID": 9,
+        "Name": "Amazon Prime Video",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 305,
+        "ID": 10,
+        "Name": "Amazon Video",
+        "Type": "rent",
+        "Country": "US"
+    },
+    {
+        "Key": 306,
+        "ID": 15,
+        "Name": "Hulu",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 307,
+        "ID": 257,
+        "Name": "fuboTV",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 308,
+        "ID": 258,
+        "Name": "Criterion Channel",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 309,
+        "ID": 283,
+        "Name": "Crunchyroll",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 310,
+        "ID": 337,
+        "Name": "Disney Plus",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 311,
+        "ID": 361,
+        "Name": "TCM",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 312,
+        "ID": 386,
+        "Name": "Peacock Premium",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 313,
+        "ID": 528,
+        "Name": "AMC+ Amazon Channel",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 314,
+        "ID": 635,
+        "Name": "AMC+ Roku Premium Channel",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 315,
+        "ID": 1899,
+        "Name": "HBO Max",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 316,
+        "ID": 1968,
+        "Name": "Crunchyroll Amazon Channel",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 317,
+        "ID": 2303,
+        "Name": "Paramount Plus Premium",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 318,
+        "ID": 2427,
+        "Name": "Passionflix Amazon Channel",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 319,
+        "ID": 2528,
+        "Name": "YouTube TV",
+        "Type": "flatrate",
+        "Country": "US"
+    },
+    {
+        "Key": 320,
+        "ID": 2616,
+        "Name": "Paramount Plus Essential",
+        "Type": "flatrate",
+        "Country": "US"
+    }
+]

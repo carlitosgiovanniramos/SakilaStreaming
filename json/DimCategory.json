@@ -1,0 +1,72 @@
+[
+    {
+        "Key": 267,
+        "ID": 12,
+        "Name": "Adventure"
+    },
+    {
+        "Key": 268,
+        "ID": 14,
+        "Name": "Fantasy"
+    },
+    {
+        "Key": 269,
+        "ID": 16,
+        "Name": "Animation"
+    },
+    {
+        "Key": 270,
+        "ID": 18,
+        "Name": "Drama"
+    },
+    {
+        "Key": 271,
+        "ID": 27,
+        "Name": "Horror"
+    },
+    {
+        "Key": 272,
+        "ID": 28,
+        "Name": "Action"
+    },
+    {
+        "Key": 273,
+        "ID": 35,
+        "Name": "Comedy"
+    },
+    {
+        "Key": 274,
+        "ID": 37,
+        "Name": "Western"
+    },
+    {
+        "Key": 275,
+        "ID": 53,
+        "Name": "Thriller"
+    },
+    {
+        "Key": 276,
+        "ID": 80,
+        "Name": "Crime"
+    },
+    {
+        "Key": 277,
+        "ID": 10402,
+        "Name": "Music"
+    },
+    {
+        "Key": 278,
+        "ID": 10749,
+        "Name": "Romance"
+    },
+    {
+        "Key": 279,
+        "ID": 10751,
+        "Name": "Family"
+    },
+    {
+        "Key": 280,
+        "ID": 10752,
+        "Name": "War"
+    }
+]

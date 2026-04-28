@@ -1,0 +1,23 @@
+[
+    {
+        "Key": 46,
+        "Type": "rent",
+        "Monthly Fee": 5.99,
+        "Max Devices": 1,
+        "Video Quality": "SD"
+    },
+    {
+        "Key": 47,
+        "Type": "flatrate",
+        "Monthly Fee": 12.99,
+        "Max Devices": 4,
+        "Video Quality": "HD"
+    },
+    {
+        "Key": 48,
+        "Type": "premium",
+        "Monthly Fee": 18.99,
+        "Max Devices": 6,
+        "Video Quality": "4K"
+    }
+]
