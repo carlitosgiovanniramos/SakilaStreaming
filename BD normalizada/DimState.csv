@@ -1,0 +1,95 @@
+﻿StateKey,Name,CountryKey
+1,Colorado,1
+2,Illinois,1
+3,Maryland,1
+4,Georgia,1
+5,South Carolina,1
+6,North Carolina,1
+7,Washington,1
+8,Alabama,1
+9,Missouri,1
+10,Texas,1
+11,Florida,1
+12,Virginia,1
+13,Ohio,1
+14,New York,1
+15,Arizona,1
+16,Massachusetts,1
+17,Michigan,1
+18,Indiana,1
+19,California,1
+20,Pennsylvania,1
+21,New Jersey,1
+22,Tennessee,1
+23,Minnesota,1
+24,Wisconsin,1
+25,West Midlands,2
+26,Leicestershire,2
+27,Hampshire,2
+28,City of Bristol,2
+29,South Yorkshire,2
+30,Nottinghamshire,2
+31,Greater London,2
+32,Greater Manchester,2
+33,West Yorkshire,2
+34,City of Edinburgh,2
+35,Nova Scotia,2
+36,Rio Grande do Sul,3
+37,Pará,3
+38,Goiás,3
+39,Pernambuco,3
+40,Ceará,3
+41,Santa Catarina,3
+42,São Paulo,3
+43,Rio de Janeiro,3
+44,Amazonas,3
+45,Minas Gerais,3
+46,Paraná,3
+47,Bahia,3
+48,Provence-Alpes-Côte d'Azur,4
+49,Auvergne-Rhône-Alpes,4
+50,Nouvelle-Aquitaine,4
+51,Hauts-de-France,4
+52,Pays de la Loire,4
+53,Centre-Val de Loire,4
+54,Bourgogne-Franche-Comté,4
+55,Normandie,4
+56,Occitanie,4
+57,Bretagne,4
+58,Grand Est,4
+59,Île-de-France,4
+60,Saskatchewan,5
+61,Nova Scotia,5
+62,British Columbia,5
+63,Manitoba,5
+64,Quebec,5
+65,Ontario,5
+66,Alberta,5
+67,Prince Edward Island,5
+68,New South Wales,6
+69,South Australia,6
+70,Northern Territory,6
+71,Tasmania,6
+72,Australian Capital Territory,6
+73,Western Australia,6
+74,Victoria,6
+75,Queensland,6
+76,Guanajuato,7
+77,Puebla,7
+78,Baja California,7
+79,Yucatán,7
+80,Ciudad de México,7
+81,Chihuahua,7
+82,Estado de México,7
+83,Querétaro,7
+84,Nuevo León,7
+85,Jalisco,7
+86,Saxony,8
+87,Bavaria,8
+88,Hamburg,8
+89,Baden-Württemberg,8
+90,Bremen,8
+91,Hesse,8
+92,North Rhine-Westphalia,8
+93,Berlin,8
+94,Lower Saxony,8

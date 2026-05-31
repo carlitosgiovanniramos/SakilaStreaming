@@ -1,0 +1,377 @@
+﻿CityKey,Name,StateKey
+1,Springfield,1
+2,Springfield,2
+3,Clinton,3
+4,Savannah,4
+5,Salem,5
+6,Franklin,3
+7,Madison,6
+8,Springfield,7
+9,Clinton,8
+10,Franklin,9
+11,El Paso,10
+12,Orlando,11
+13,Franklin,12
+14,Madison,8
+15,Salem,1
+16,Atlanta,4
+17,Akron,13
+18,Clinton,1
+19,Georgetown,8
+20,Franklin,7
+21,New York City,14
+22,Georgetown,15
+23,Georgetown,16
+24,Springfield,8
+25,Clinton,17
+26,Madison,18
+27,Georgetown,18
+28,Georgetown,9
+29,Los Angeles,19
+30,Madison,9
+31,Allentown,20
+32,Salem,9
+33,Franklin,1
+34,Augusta,4
+35,Springfield,21
+36,Madison,22
+37,Clinton,22
+38,Franklin,15
+39,Salem,23
+40,Miami,11
+41,Joliet,2
+42,Yonkers,14
+43,Springfield,9
+44,Salem,15
+45,Cincinnati,13
+46,Franklin,8
+47,Syracuse,14
+48,St. Petersburg,11
+49,San Jose,19
+50,Columbus,4
+51,Franklin,5
+52,Springfield,23
+53,Dayton,13
+54,Franklin,22
+55,Houston,10
+56,Jacksonville,11
+57,Georgetown,3
+58,Franklin,17
+59,Athens,4
+60,Salem,24
+61,Springfield,15
+62,Austin,10
+63,Madison,17
+64,Franklin,21
+65,Clinton,18
+66,Clinton,24
+67,Springfield,18
+68,Franklin,23
+69,Franklin,18
+70,San Diego,19
+71,Madison,23
+72,Rochester,14
+73,Madison,7
+74,Madison,15
+75,Georgetown,23
+76,Scranton,20
+77,Springfield,16
+78,Georgetown,21
+79,Salem,7
+80,Toledo,13
+81,Clinton,7
+82,Salem,21
+83,Georgetown,24
+84,Clinton,6
+85,Clinton,21
+86,Springfield,22
+87,Sacramento,19
+88,Madison,12
+89,Springfield,17
+90,Clinton,23
+91,Springfield,24
+92,Salem,12
+93,Clinton,16
+94,Madison,21
+95,Salem,17
+96,Clinton,5
+97,Hialeah,11
+98,Madison,5
+99,Fresno,19
+100,Fort Worth,10
+101,Naperville,2
+102,Clinton,9
+103,Madison,1
+104,Clinton,15
+105,Salem,6
+106,Chicago,2
+107,Georgetown,6
+108,Salem,22
+109,San Antonio,10
+110,Dallas,10
+111,Philadelphia,20
+112,Madison,3
+113,Georgetown,12
+114,Aurora,2
+115,Springfield,12
+116,Salem,16
+117,Georgetown,1
+118,Tampa,11
+119,Pittsburgh,20
+120,Georgetown,7
+121,Salem,8
+122,Buffalo,14
+123,Salem,3
+124,Springfield,3
+125,Albany,14
+126,Salem,18
+127,Madison,24
+128,Cleveland,13
+129,Franklin,24
+130,Springfield,6
+131,Reading,20
+132,Georgetown,22
+133,Erie,20
+134,Franklin,16
+135,Georgetown,17
+136,Springfield,5
+137,Georgetown,5
+138,San Francisco,19
+139,Columbus,13
+140,Madison,16
+141,Macon,4
+142,Franklin,6
+143,Rockford,2
+144,Clinton,12
+145,Coventry,25
+146,Leicester,26
+147,Portsmouth,27
+148,Bristol,28
+149,Sheffield,29
+150,Nottingham,30
+151,Croydon,31
+152,Bolton,32
+153,Leeds,33
+154,Portobello,34
+155,Edinburgh,34
+156,London,31
+157,Manchester,32
+158,Bromley,31
+159,Leith,34
+160,Birmingham,25
+161,Oldham,32
+162,Wolverhampton,25
+163,Stockport,32
+164,Halifax,35
+165,Barnet,31
+166,Dudley,25
+167,Wakefield,33
+168,Ealing,31
+169,Salford,32
+170,Bradford,33
+171,Huddersfield,33
+172,Canoas,36
+173,Belém,37
+174,Goiânia,38
+175,Recife,39
+176,Fortaleza,40
+177,São José,41
+178,Osasco,42
+179,Duque de Caxias,43
+180,Porto Alegre,36
+181,Nova Iguaçu,43
+182,Manaus,44
+183,Belo Horizonte,45
+184,Santa Maria,36
+185,Cascavel,46
+186,Betim,45
+187,Ribeirão Preto,42
+188,Feira de Santana,47
+189,Juiz de Fora,45
+190,Rio de Janeiro,43
+191,Curitiba,46
+192,Caxias do Sul,36
+193,São Paulo,42
+194,Joinville,41
+195,Salvador,47
+196,Santo André,42
+197,Maringá,46
+198,Florianópolis,41
+199,Camaçari,47
+200,Niterói,43
+201,Uberlândia,45
+202,Contagem,45
+203,Ponta Grossa,46
+204,Vitória da Conquista,47
+205,Blumenau,41
+206,Londrina,46
+207,Chapecó,41
+208,São Gonçalo,43
+209,Pelotas,36
+210,Guarulhos,42
+211,Campinas,42
+212,Aix-en-Provence,48
+213,Saint-Étienne,49
+214,Bordeaux,50
+215,Lille,51
+216,Angers,52
+217,Lyon,49
+218,Tours,53
+219,Dijon,54
+220,Le Havre,55
+221,Pau,50
+222,Grenoble,49
+223,Avignon,48
+224,Montpellier,56
+225,Brest,57
+226,Strasbourg,58
+227,Lorient,57
+228,La Rochelle,50
+229,Le Mans,52
+230,Cherbourg,55
+231,Nice,48
+232,Clermont-Ferrand,49
+233,Nantes,52
+234,Caen,55
+235,Marseille,48
+236,Reims,58
+237,Quimper,57
+238,Toulon,48
+239,Amiens,51
+240,Roubaix,51
+241,Tourcoing,51
+242,Poitiers,50
+243,Dunkerque,51
+244,Boulogne-Billancourt,59
+245,Rouen,55
+246,Rennes,57
+247,Versailles,59
+248,Villeurbanne,49
+249,Saint-Nazaire,52
+250,Paris,59
+251,Argenteuil,59
+252,Saint-Denis,59
+253,Limoges,50
+254,Saskatoon,60
+255,Halifax,61
+256,Abbotsford,62
+257,Steinbach,63
+258,Montreal,64
+259,Mississauga,65
+260,Sherbrooke,64
+261,Calgary,66
+262,Brandon,63
+263,Regina,60
+264,Winnipeg,63
+265,Longueuil,64
+266,Surrey,62
+267,Edmonton,66
+268,Kelowna,62
+269,Toronto,65
+270,Laval,64
+271,Charlottetown,67
+272,London,65
+273,Vancouver,62
+274,Lethbridge,66
+275,Red Deer,66
+276,Brampton,65
+277,Burnaby,62
+278,Hamilton,65
+279,Quebec City,64
+280,Richmond,62
+281,Gatineau,64
+282,Thompson,63
+283,Ottawa,65
+284,St. Albert,66
+285,Central Coast,68
+286,Wollongong,68
+287,Whyalla,69
+288,Darwin,70
+289,Burnie,71
+290,Canberra,72
+291,Bunbury,73
+292,Hobart,71
+293,Alice Springs,70
+294,Shepparton,74
+295,Ballarat,74
+296,Brisbane,75
+297,Devonport,71
+298,Mount Gambier,69
+299,Launceston,71
+300,Sydney,68
+301,Cairns,75
+302,Mandurah,73
+303,Sunshine Coast,75
+304,Adelaide,69
+305,Townsville,75
+306,Geraldton,73
+307,Melbourne,74
+308,Bendigo,74
+309,Murray Bridge,69
+310,Newcastle,68
+311,Geelong,74
+312,Gold Coast,75
+313,Fremantle,73
+314,Perth,73
+315,Parramatta,68
+316,León,76
+317,Puebla,77
+318,Tijuana,78
+319,Mérida,79
+320,Iztapalapa,80
+321,Juárez,81
+322,Chihuahua,81
+323,Toluca,82
+324,Ciudad de México,80
+325,Coyoacán,80
+326,Querétaro,83
+327,San Pedro,84
+328,Ecatepec,82
+329,Naucalpan,82
+330,Xochimilco,80
+331,Tonalá,85
+332,Tlalnepantla,82
+333,San Nicolás,84
+334,Monterrey,84
+335,Guadalajara,85
+336,Tlalpan,80
+337,Tlaquepaque,85
+338,Apodaca,84
+339,Guadalupe,84
+340,Nezahualcóyotl,82
+341,Puerto Vallarta,85
+342,Zapopan,85
+343,Dresden,86
+344,Würzburg,87
+345,Hamburg,88
+346,Leipzig,86
+347,Stuttgart,89
+348,Harburg,88
+349,Bremen,90
+350,Frankfurt,91
+351,Düsseldorf,92
+352,Neukölln,93
+353,Regensburg,87
+354,Hanover,94
+355,Charlottenburg,93
+356,Wiesbaden,91
+357,Altona,88
+358,Karlsruhe,89
+359,Heidelberg,89
+360,Essen,92
+361,Bochum,92
+362,Nuremberg,87
+363,Schöneberg,93
+364,Berlin,93
+365,Augsburg,87
+366,Freiburg,89
+367,Bergedorf,88
+368,Oldenburg,94
+369,Cologne,92
+370,Braunschweig,94
+371,Dortmund,92
+372,Munich,87
+373,Mannheim,89
+374,Osnabrück,94
+375,Kreuzberg,93
+376,Duisburg,92

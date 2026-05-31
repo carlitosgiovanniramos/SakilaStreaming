@@ -1,0 +1,40 @@
+﻿CategoryKey,TmdbGenreID,Name,GenreGroup,IsActive,SortOrder,Description
+267,12,Adventure,Action & Spectacle,1,3,"Epic journeys, quests, and explorations across real or fantastical worlds."
+268,14,Fantasy,Family & Fantasy,1,5,Stories set in magical or supernatural worlds with mythical creatures and powers.
+269,16,Animation,Family & Fantasy,1,4,"Animated films spanning all genres, from family features to adult anime."
+270,18,Drama,Narrative,1,1,"Character-driven stories exploring the human condition, emotions, and relationships."
+271,27,Horror,Horror & Suspense,1,9,Films designed to frighten or disturb through supernatural or psychological terror.
+272,28,Action,Action & Spectacle,1,2,"High-energy films focused on physical feats, combat, and fast-paced sequences."
+273,35,Comedy,Light & Feel-Good,1,6,"Films intended to entertain and amuse through humor, wit, and lighthearted situations."
+274,37,Western,Narrative,0,13,"Stories set in the American frontier era, exploring themes of justice and survival."
+275,53,Thriller,Horror & Suspense,1,8,Suspenseful films that keep audiences on edge through tension and unexpected twists.
+276,80,Crime,Narrative,1,7,"Stories centered on criminal activity, investigations, and moral ambiguity."
+277,10402,Music,Arts & Culture,1,15,Films centered on musical performance or where music drives the narrative.
+278,10749,Romance,Light & Feel-Good,1,10,"Stories focused on love, relationships, and emotional connections."
+279,10751,Family,Family & Fantasy,1,11,"Films suitable for all ages, featuring themes of belonging and togetherness."
+280,10752,War,Action & Spectacle,1,12,"Films depicting armed conflict, exploring heroism, sacrifice, and its cost."
+281,99,Documentary,Arts & Culture,1,14,"Non-fiction films exploring real events, people, and social issues."
+282,9648,Mystery,Horror & Suspense,1,16,Films built around puzzles and investigations where truth is gradually revealed.
+283,10759,Action & Adventure,Action & Spectacle,1,17,Hybrid genre combining high-stakes action with exploratory adventure narratives.
+284,10762,Kids,Family & Fantasy,1,18,Content produced specifically for children under 12.
+285,10763,News,Arts & Culture,0,22,Journalistic and current-events programming.
+286,10764,Reality,Arts & Culture,0,23,Unscripted content documenting real people and situations.
+287,10765,Sci-Fi & Fantasy,Action & Spectacle,1,19,"Speculative fiction exploring future technologies, space, and alternate realities."
+288,10766,Soap,Light & Feel-Good,0,24,Serialized melodramatic narratives focused on interpersonal relationships.
+289,10767,Talk,Arts & Culture,0,25,Interview and discussion-based programs.
+290,10768,Politics,Arts & Culture,1,20,Films and documentaries centered on political systems and governance.
+291,36,History,Arts & Culture,1,21,Films set in or depicting historical periods and past events.
+292,10770,TV Movie,Narrative,1,26,Films produced primarily for television or streaming platforms.
+293,878,Science Fiction,Action & Spectacle,1,27,"Stories exploring scientific concepts, space exploration, and futuristic societies."
+294,14402,Anime,Family & Fantasy,1,28,Japanese animated content spanning all sub-genres.
+295,9999,Sports,Action & Spectacle,1,29,Films and documentaries focused on athletic competition and sports culture.
+296,10800,Biographical,Arts & Culture,1,30,Films depicting the real life of notable individuals.
+297,10801,Psychological,Horror & Suspense,1,31,"Films exploring the inner workings of the mind, identity, and perception."
+298,10802,Stand-Up Comedy,Light & Feel-Good,1,32,Recorded stand-up performances and comedy specials.
+299,10803,Short Film,Arts & Culture,1,33,Films under 40 minutes for festival content and emerging filmmakers.
+300,10804,LGBTQ+,Narrative,1,34,"Films centered on LGBTQ+ stories, identities, and experiences."
+301,10805,Indie,Narrative,1,35,Independent films produced outside major studio systems.
+302,10806,Cult Classic,Arts & Culture,1,36,Films with dedicated fan communities outside mainstream commercial success.
+303,10807,Foreign Language,Arts & Culture,1,37,Non-English language films from international markets.
+304,10808,Superhero,Action & Spectacle,1,38,Films featuring characters with extraordinary abilities fighting crime or threats.
+305,10809,Disaster,Action & Spectacle,1,39,Films centered on large-scale catastrophes and human survival responses.

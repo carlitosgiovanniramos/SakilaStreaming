@@ -1,0 +1,21 @@
+﻿ProviderKey,ProviderID,Name,Type,Country,parent_company,launch_year,content_focus,is_active,commission_rate,global_subscribers_M
+301,2,Apple TV+,premium,US,Apple Inc.,2019,Mixed,1,0.3,25.0
+302,3,Google Play Movies,rent,US,Alphabet Inc.,2012,Movies,1,0.3,0.0
+303,8,Netflix,flatrate,US,Netflix Inc.,2007,Mixed,1,0.0,260.0
+304,9,Amazon Prime Video,flatrate,US,Amazon.com Inc.,2006,Mixed,1,0.0,200.0
+305,10,Amazon Video,rent,US,Amazon.com Inc.,2006,Movies,1,0.3,0.0
+306,15,Hulu,flatrate,US,The Walt Disney Co.,2008,Mixed,1,0.0,51.0
+307,257,fuboTV,flatrate,US,fuboTV Inc.,2015,Sports,1,0.15,1.5
+308,258,Criterion Channel,flatrate,US,Criterion Collection,2019,Movies,1,0.2,0.5
+309,283,Crunchyroll,flatrate,US,Sony Group Corp.,2006,Anime,1,0.15,13.0
+310,337,Disney+,flatrate,US,The Walt Disney Co.,2019,Mixed,1,0.0,150.0
+311,361,TCM,flatrate,US,Warner Bros. Discovery,1994,Movies,1,0.2,2.0
+312,386,Peacock Premium,flatrate,US,NBCUniversal/Comcast,2020,Mixed,1,0.0,34.0
+313,528,AMC+ Amazon Channel,flatrate,US,AMC Networks,2016,Series,1,0.3,4.0
+314,635,AMC+ Roku Channel,flatrate,US,AMC Networks,2020,Series,1,0.3,4.0
+315,1899,Max,flatrate,US,Warner Bros. Discovery,2023,Mixed,1,0.0,99.0
+316,1968,Crunchyroll Amazon Channel,flatrate,US,Sony Group Corp.,2017,Anime,1,0.3,5.0
+317,2303,Paramount+ Premium,flatrate,US,Paramount Global,2021,Mixed,1,0.0,68.0
+318,2427,Passionflix,flatrate,US,Passionflix Inc.,2017,Movies,1,0.25,0.3
+319,2528,YouTube TV,flatrate,US,Alphabet Inc.,2017,Mixed,1,0.0,8.0
+320,2616,Paramount+ Essential,flatrate,US,Paramount Global,2021,Mixed,1,0.0,68.0
